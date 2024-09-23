@@ -5,9 +5,11 @@ import streamlit as st
 # Set page configuration
 st.set_page_config(page_title='Education Levels Dashboard', layout='wide')
 
+# Define the raw URL to the CSV file
+file_url = 'https://raw.githubusercontent.com/username/repository/main/Education%20level%20copy.csv'
+
 # Load the CSV file
-file_path = '/Users/chrisbarza/Desktop/Education level copy.csv'
-education_data = pd.read_csv(file_path)
+education_data = pd.read_csv(file_url)
 
 # Sidebar for user input
 st.sidebar.header('Filter Options')
@@ -90,6 +92,7 @@ fig_heatmap.update_layout(
 # Display the heatmap
 st.title('Correlation Matrix Heatmap')
 st.plotly_chart(fig_heatmap)
+
 
 
 
