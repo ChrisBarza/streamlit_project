@@ -1,0 +1,930 @@
+Percentage of Education level of residents-illeterate,Percentage of School dropout,Percentage of Education level of residents-university,Percentage of Education level of residents-secondary,Percentage of Education level of residents-intermediate,Percentage of Education level of residents-vocational,Percentage of Education level of residents-elementary,Percentage of Education level of residents-higher education,Town,dataset
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.00E+02,Boutchay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.00E+02,Ghobairi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.00E+02,Qleiaat Kesrouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,2.00E+00,0.00E+00,0.00E+00,1.00E+01,0.00E+00,1.00E+01,8.00E+01,Jdidet Ej-Joumeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.20E+01,1.00E+00,1.00E+00,5.00E+00,1.00E+00,6.00E+01,Baabdat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+01,2.00E+01,5.00E+00,5.00E+00,5.00E+00,5.00E+00,5.00E+01,Enfeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,5.00E+00,1.00E+01,5.00E+00,1.00E+01,5.00E+01,Chaqdouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,3.00E+01,5.00E+00,5.00E+00,1.00E+01,5.00E+00,4.00E+01,Mcherfeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,2.00E+01,1.00E+01,5.00E+00,1.00E+01,5.00E+00,4.00E+01,Massa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,3.00E+00,5.00E+00,2.00E+01,2.00E+01,2.00E+00,5.00E+00,4.00E+01,Lassa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,1.50E+01,5.00E+00,1.00E+01,0.00E+00,3.50E+01,Tannourine El-Faouqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,3.00E+01,1.50E+01,5.00E+00,1.00E+01,4.00E+00,3.50E+01,Bterram,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,1.00E+01,0.00E+00,2.00E+01,0.00E+00,3.00E+01,Aachach,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,4.00E+01,2.00E+01,1.00E+01,1.00E+01,3.00E+01,Menneaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.50E+01,1.00E+01,0.00E+00,2.00E+01,0.00E+00,2.50E+01,Mar Chaaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,3.00E+01,2.50E+01,1.00E+01,1.00E+01,1.90E+01,1.00E+01,2.50E+01,Sinn El-Fil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,1.00E+00,3.00E+01,1.50E+01,1.00E+01,1.00E+01,7.00E+00,2.50E+01,Kousba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.50E+01,2.00E+01,2.00E+01,8.00E+00,1.00E+01,2.50E+01,Kharbe,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,2.00E+01,1.50E+01,5.00E+00,2.00E+01,2.50E+01,Borj El-Moulouk,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,1.00E+01,0.00E+00,4.00E+01,0.00E+00,2.00E+01,Bisrin,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,3.00E+01,3.00E+01,2.00E+01,2.00E+01,3.00E+01,2.00E+01,2.00E+01,Shawagheer El-Faouqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,0.00E+00,3.00E+01,0.00E+00,2.00E+01,Maad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,5.00E+00,2.50E+01,0.00E+00,2.00E+01,Qarah Bach,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E+00,3.00E+01,1.00E+01,1.00E+01,2.00E+01,9.00E+00,2.00E+01,Louayzet Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,2.00E+01,Bissariyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+01,Berti,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+01,Zabbougha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,4.00E+01,1.10E+01,7.00E+00,1.50E+01,5.00E+00,2.00E+01,Miziara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.90E+01,1.50E+01,5.00E+00,1.50E+01,5.00E+00,2.00E+01,Beit Mellat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.50E+01,1.00E+01,1.00E+01,1.50E+01,5.00E+00,2.00E+01,Ayto,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,3.00E+01,2.00E+01,8.00E+00,1.50E+01,5.00E+00,2.00E+01,Habbouch En-Nabatiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+01,1.50E+01,1.00E+01,1.00E+01,1.00E+01,2.00E+01,Kfar Tay El-Matn,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.60E+01,2.00E+01,3.00E+00,1.00E+01,1.00E+00,2.00E+01,Balloune,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,4.00E+01,2.00E+01,5.00E+00,1.00E+01,3.00E+00,2.00E+01,Mristi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,2.00E+01,Kaftoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,3.50E+01,2.00E+01,5.00E+00,1.00E+01,5.00E+00,2.00E+01,Rachaaine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+01,3.00E+01,1.00E+01,5.00E+00,1.00E+01,2.00E+01,2.00E+01,Khirbet Qanafar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,3.00E+01,2.00E+01,5.00E+00,1.00E+01,1.00E+01,2.00E+01,Bdadoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.00E+01,3.00E+01,7.00E+00,1.00E+01,2.00E+00,2.00E+01,Roumieh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,2.50E+01,1.00E+01,1.00E+01,1.00E+01,2.00E+01,Qornet El-Hamra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.00E+01,1.50E+01,2.00E+01,1.00E+01,1.00E+01,2.00E+01,Aaba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,1.50E+01,1.50E+01,1.00E+01,1.50E+01,2.00E+01,Kahlouniet Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,1.00E+01,1.00E+01,2.00E+01,Aain Kfaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,3.00E+01,1.00E+01,1.00E+01,1.00E+01,2.00E+01,Mrah El-Hbasse,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,3.50E+01,2.00E+01,1.00E+01,5.00E+00,1.00E+01,2.00E+01,Hjoula,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,2.00E+01,3.50E+01,1.00E+01,5.00E+00,1.00E+01,2.00E+01,Behnine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,5.30E+01,1.00E+01,7.00E+00,3.00E+00,6.00E+00,2.00E+01,Richmaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,7.30E+01,0.00E+00,0.00E+00,2.00E+00,5.00E+00,2.00E+01,Rashana,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.80E+01,1.80E+01,1.80E+01,1.80E+01,1.00E+01,1.80E+01,Wadi Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,4.00E+01,2.00E+01,1.00E+01,5.00E+00,5.00E+00,1.80E+01,Aabdine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,3.00E+00,2.20E+01,2.00E+01,1.50E+01,2.00E+00,2.00E+01,1.80E+01,Dibbiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,4.00E+01,2.50E+01,5.00E+00,7.00E+00,5.00E+00,1.70E+01,Aayta El-Foukhar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+01,2.50E+01,3.00E+00,5.00E+00,0.00E+00,1.70E+01,Kafr,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,1.50E+01,1.70E+01,Tartij,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,8.00E+01,2.00E+00,0.00E+00,1.00E+00,0.00E+00,1.70E+01,Mar Mama,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.00E+01,1.00E+01,2.50E+01,2.00E+00,2.50E+01,1.60E+01,Bintaael,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,1.50E+01,Beit Ed-Dine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,1.50E+01,Mraijat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,2.00E+01,1.00E+01,1.50E+01,5.00E+00,1.50E+01,Kfar Faqoud,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,3.50E+01,7.00E+00,1.50E+01,1.30E+01,1.00E+01,1.50E+01,Chadra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.60E+01,1.00E+00,2.00E+01,1.30E+01,2.00E+01,1.50E+01,Fouara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,1.50E+01,Aain Ez-Zeitouneh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.50E+01,3.00E+01,1.00E+01,1.00E+01,5.00E+00,1.50E+01,Toura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,2.00E+01,2.00E+01,1.00E+01,1.00E+01,1.50E+01,Aain El-Qabu,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,1.00E+01,1.50E+01,1.50E+01,Kfar Falous,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+00,1.50E+01,1.50E+01,1.50E+01,1.00E+01,1.50E+01,1.50E+01,Aarbet Qozhaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.00E+01,1.50E+01,1.50E+01,9.00E+00,1.50E+01,1.50E+01,Btekhnay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,2.00E+01,3.00E+01,2.00E+01,8.00E+00,5.00E+00,1.50E+01,Ouardaniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,5.00E+01,5.00E+00,1.00E+01,5.00E+00,1.00E+01,1.50E+01,Bourjein,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,2.50E+01,3.00E+01,1.00E+01,5.00E+00,1.00E+01,1.50E+01,Qabb Elias,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,2.00E+01,2.00E+01,5.00E+00,1.50E+01,1.50E+01,Dar Chmizzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,1.80E+01,1.50E+01,Ijbaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,1.00E+01,1.50E+01,Beit Lahia,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,2.00E+01,1.50E+01,5.00E+00,2.50E+01,1.50E+01,Deir Baba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,1.00E+01,5.00E+00,3.00E+01,1.00E+00,1.40E+01,Jouret Arsoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,4.50E+01,2.00E+01,2.00E+00,1.50E+01,2.00E+00,1.40E+01,Kfour El-Aarbi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.40E+01,0.00E+00,1.60E+01,1.40E+01,1.40E+01,1.40E+01,1.40E+01,1.40E+01,Bcharreh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.00E+01,3.00E+01,3.00E+01,5.00E+00,1.00E+01,1.40E+01,Heri,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,3.00E+01,2.00E+01,7.00E+01,5.00E+00,1.30E+01,Yanta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,4.00E+01,2.00E+01,5.00E+00,1.50E+01,5.00E+00,1.30E+01,Qaa Er-Rim,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+7.00E+00,5.00E+00,3.00E+01,1.50E+01,8.00E+00,7.00E+00,2.00E+01,1.30E+01,Beit Chama,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.50E+01,4.00E+01,2.00E+01,5.00E+00,5.00E+00,1.30E+01,Bouaida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,2.00E+01,2.00E+01,2.50E+01,4.00E+00,1.50E+01,1.30E+01,Machmoucheh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,7.00E+00,3.00E+01,1.30E+01,1.50E+01,1.80E+01,7.00E+00,1.20E+01,Chiyah,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+02,2.00E+01,1.50E+01,2.00E+01,1.20E+01,2.00E+01,1.20E+01,Aaouaainat Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,3.50E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,1.20E+01,Meimes,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E-01,1.90E+01,2.00E+01,1.00E+01,3.00E+01,1.00E+01,1.00E+01,Yohmor En-Nabatiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,1.00E+01,9.00E+00,2.00E+01,3.00E+01,2.00E+01,1.00E+01,Benouati Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,6.00E+01,4.00E+01,3.00E+01,2.00E+01,3.00E+01,1.00E+01,Aain Qania,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,3.00E+01,2.00E+01,1.30E+01,2.00E+01,5.00E+00,1.00E+01,Beit Obeid,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.00E+01,2.00E+01,1.40E+01,2.00E+01,5.00E+00,1.00E+01,Roumine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,Mansouriyet Bhamdoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,Mjaydel Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,5.00E+00,2.20E+01,1.50E+01,1.00E+01,2.00E+01,8.00E+00,1.00E+01,Qarsaita,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,Beit Monzer,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,Mrah Es-Srayj,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+01,2.00E+01,2.00E+01,1.50E+01,2.00E+01,1.30E+01,1.00E+01,Barr Elias,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.50E+01,2.00E+01,1.50E+01,1.50E+01,2.00E+01,1.00E+01,1.00E+01,Aain Zhalta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,Nabha Qoudam,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,2.00E+01,1.00E+01,2.00E+01,2.00E+01,1.80E+01,1.00E+01,Kfar Selouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.00E+01,2.00E+01,2.00E+01,2.00E+01,5.00E+00,1.00E+01,shebaneye,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,Mazraat Swaidan,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,2.00E+01,1.90E+01,2.00E+01,1.00E+01,1.00E+01,Nfisseh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,1.50E+01,2.50E+01,2.00E+01,2.00E+01,1.00E+01,1.00E+01,Qalamoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+01,1.00E+01,Braiqeaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,4.00E+00,2.80E+01,1.00E+01,1.80E+01,1.70E+01,1.20E+01,1.00E+01,Deddeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,5.00E+01,1.50E+01,5.00E+00,1.50E+01,4.00E+00,1.00E+01,Dalhoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,4.00E+00,3.00E+01,2.00E+01,1.00E+01,1.50E+01,1.00E+01,1.00E+01,Beit El-Faqs,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,3.00E+01,2.50E+01,1.50E+01,1.50E+01,5.00E+00,1.00E+01,Sehjoud,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,1.00E+01,2.50E+01,1.50E+01,5.00E+00,1.00E+01,Jarjouaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,2.00E+01,1.50E+01,5.00E+00,1.00E+01,Qbaiyat Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,1.50E+01,2.50E+01,2.00E+01,5.00E+00,1.50E+01,5.00E+00,1.00E+01,Zouk Mousbeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,2.50E+01,2.00E+01,1.00E+01,1.50E+01,1.80E+01,1.00E+01,Bcheaali,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,2.50E+01,1.80E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,Majdelyoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,2.50E+01,1.00E+01,2.00E+01,1.50E+01,2.00E+01,1.00E+01,Niha Zahleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.50E+01,1.50E+01,1.00E+01,1.50E+01,1.00E+01,1.00E+01,Deir Dourit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,5.00E+00,2.00E+01,1.00E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,Tayr Debbeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,2.00E+01,2.50E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,Harabta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,1.50E+01,1.30E+01,1.00E+01,Aain Ibl,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.50E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,Shayleh Kesrouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,1.50E+01,1.50E+01,1.50E+01,1.50E+01,2.00E+01,1.00E+01,Nabatiyeh El-Faouka,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,1.50E+01,1.50E+01,1.50E+01,1.50E+01,2.00E+01,1.00E+01,Najjariyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.00E+01,2.00E+01,2.00E+01,1.50E+01,1.50E+01,1.00E+01,Beit Ayoub,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+00,1.00E+01,1.50E+01,1.50E+01,1.50E+01,1.50E+01,1.00E+01,Seraal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.00E+01,2.00E+01,2.00E+01,1.50E+01,2.00E+01,1.00E+01,Zebdine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,3.00E+00,3.00E+01,3.00E+01,1.00E+01,1.20E+01,5.00E+00,1.00E+01,Rasha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,6.00E+01,2.00E+01,0.00E+00,1.00E+01,0.00E+00,1.00E+01,Bramiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,5.00E+01,1.00E+01,1.00E+01,1.00E+01,5.00E+00,1.00E+01,aain Aalaq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,5.00E+01,1.80E+01,5.00E+00,1.00E+01,5.00E+00,1.00E+01,Ghalboun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,3.00E+01,4.00E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,Kafra Bent Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,4.00E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,Bsalim,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,4.00E+01,2.00E+01,1.00E+01,1.00E+01,8.00E+00,1.00E+01,Qortada,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,Haytoura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,3.00E+01,7.00E+00,1.00E+01,3.00E+00,1.00E+01,Jeoddayel Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,1.00E+01,3.00E+01,1.00E+01,5.00E+00,1.00E+01,Zakrit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,3.00E+01,3.00E+01,1.00E+01,1.00E+01,7.00E+00,1.00E+01,Qmatiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,3.00E+01,1.00E+01,1.50E+01,1.00E+01,1.50E+01,1.00E+01,Qartaba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,1.00E+01,Aain El-Ghouaybeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,3.00E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,Dar Baaechtar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.50E+01,1.50E+01,1.00E+01,1.00E+01,1.00E+01,Hasroun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,3.00E+01,2.00E+01,1.00E+01,0.00E+00,1.00E+01,Majdalouna,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,1.50E+01,1.50E+01,1.00E+01,2.00E+01,1.00E+01,Rihana,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.90E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,Soultaniyet Bent Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.50E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,Aalmane Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,2.40E+01,1.00E+01,2.50E+01,1.00E+01,2.00E+01,1.00E+01,Beit Meri,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,9.00E+00,2.00E+01,2.70E+01,1.00E+01,1.00E+01,2.00E+01,1.00E+01,Saida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,2.00E+01,2.00E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,Fatre,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,2.00E+01,2.50E+01,2.00E+01,1.00E+01,1.50E+01,1.00E+01,Kahef Maloul,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.00E+01,1.50E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,Qatrani,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,3.50E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,Metrit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,2.00E+01,1.00E+01,3.00E+01,1.00E+01,1.70E+01,1.00E+01,Soltan Yacoub el Aradi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,3.90E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,Sfaray,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,4.00E+01,1.00E+01,0.00E+00,1.00E+01,Aafsdiq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+00,5.00E+00,1.00E+01,5.30E+01,1.00E+01,Aain El Saydeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,3.00E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,Chibtine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,4.00E+01,1.00E+01,0.00E+00,1.00E+01,Mazraat Assaf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,Tal Aabbas,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,3.50E+01,1.50E+01,1.00E+01,2.00E+01,1.00E+01,2.50E+01,1.00E+01,Daraiya Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,4.00E+00,1.50E+01,1.00E+01,3.00E+01,1.00E+01,1.50E+01,1.00E+01,Arsoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.50E+01,1.50E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,Qabaait,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+01,1.00E+01,1.00E+01,3.00E+01,1.00E+01,2.00E+01,1.00E+01,Moshrea,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,1.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,2.00E+01,1.00E+01,Machta Hammoud,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,1.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,Batoulay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+00,1.00E+01,1.00E+01,1.50E+01,1.00E+01,3.00E+01,1.00E+01,Kfar Dane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,2.00E+01,2.50E+01,1.00E+01,1.50E+01,1.00E+01,Aain Mouaffaq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,1.00E+01,3.00E+01,1.00E+01,2.00E+01,1.00E+01,Beit Hbaq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,1.00E+01,4.00E+01,1.00E+01,1.00E+01,1.00E+01,Edde El-Batroun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,1.00E+01,3.00E+01,1.00E+01,2.50E+01,1.00E+01,Kfar Hilda,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.00E+01,1.00E+01,3.00E+01,1.00E+01,3.00E+01,1.00E+01,Ain Aakrine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,3.00E+01,2.00E+01,2.00E+01,9.00E+00,8.00E+00,1.00E+01,Khirbet Bisri,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.50E+01,2.00E+01,1.50E+01,9.00E+00,2.00E+01,1.00E+01,Mrah Ez Ziyat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.20E+01,3.00E+01,1.00E+01,8.00E+00,2.00E+01,1.00E+01,Haret Es-Sit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.50E+01,3.00E+01,2.00E+01,8.00E+00,1.50E+01,1.00E+01,Qoussaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,2.00E+01,2.00E+01,6.00E+00,4.00E+00,1.00E+01,Bechmizzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+6.00E+00,2.00E+00,1.10E+01,1.50E+01,2.60E+01,6.00E+00,2.60E+01,1.00E+01,Jouaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,7.20E+01,1.00E+01,1.00E+00,5.00E+00,1.00E+00,1.00E+01,Rabieh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,5.00E+01,3.00E+01,3.00E+00,5.00E+00,2.00E+00,1.00E+01,Zalqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.50E+01,4.00E+01,1.00E+01,1.50E+01,5.00E+00,1.50E+01,1.00E+01,Fraikeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,4.00E+01,1.00E+01,1.50E+01,5.00E+00,1.50E+01,1.00E+01,Haouch El Qinnabeh Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,3.50E+01,1.00E+01,1.00E+01,5.00E+00,2.00E+01,1.00E+01,Jensnaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+01,3.00E+01,2.50E+01,1.50E+01,5.00E+00,1.00E+01,1.00E+01,Rihaniyet Minie,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.50E+01,3.00E+01,3.00E+01,2.00E+01,5.00E+00,5.00E+00,1.00E+01,Beino,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,2.00E+01,3.00E+01,5.00E+00,0.00E+00,1.00E+01,Ferhet,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.50E+01,3.00E+01,2.00E+01,5.00E+00,8.00E+00,1.00E+01,Batroumine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.40E+01,2.00E+01,3.00E+01,5.00E+00,1.00E+01,1.00E+01,Hadath Ej-Jebbeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,2.30E+01,4.00E+01,1.00E+01,5.00E+00,1.00E+01,1.00E+01,Kfar Beit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,1.00E+00,2.20E+01,3.00E+01,1.50E+01,5.00E+00,1.50E+01,1.00E+01,Khartoum,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,4.00E+00,2.00E+01,1.00E+01,3.00E+01,5.00E+00,2.00E+01,1.00E+01,Halba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,2.00E+00,2.00E+01,2.00E+01,3.50E+01,5.00E+00,1.00E+01,1.00E+01,Btouratij,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,1.00E+01,Bhersaf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.50E+01,1.50E+01,1.00E+01,2.00E+01,5.00E+00,3.00E+01,1.00E+01,Motel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+01,1.50E+01,4.00E+01,2.00E+01,5.00E+00,1.00E+01,1.00E+01,Bchtfine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.50E+01,2.50E+01,3.00E+01,5.00E+00,5.00E+00,1.00E+01,Zouk El-Kharab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,1.50E+01,2.00E+01,3.00E+01,5.00E+00,1.70E+01,1.00E+01,Bsarma,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,1.40E+01,3.00E+01,2.00E+01,5.00E+00,2.00E+01,1.00E+01,Qlaileh Sour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,9.00E+01,1.20E+01,2.00E+01,5.00E+00,5.00E+00,4.00E+01,1.00E+01,Hmairi Sour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.00E+01,2.00E+01,2.50E+01,5.00E+00,2.50E+01,1.00E+01,Raait,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,1.00E+01,2.00E+01,4.50E+01,5.00E+00,5.00E+00,1.00E+01,Jbouleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,3.00E+01,3.00E+01,5.00E+00,1.00E+01,1.00E+01,Kfar Houneh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,2.50E+01,2.50E+01,5.00E+00,2.00E+01,1.00E+01,Saghbine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+00,1.00E+01,3.00E+01,5.00E+00,4.00E+01,1.00E+01,Aazour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,4.00E+01,3.00E+01,1.00E+01,4.00E+00,5.00E+00,1.00E+01,En-Nahriyyi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,2.50E+01,2.70E+01,1.80E+01,4.00E+00,1.40E+01,1.00E+01,Baisour Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,4.00E+01,2.00E+01,1.50E+01,3.00E+00,1.00E+01,1.00E+01,Kfar Hay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,3.00E+01,4.00E+01,1.00E+01,3.00E+00,5.00E+00,1.00E+01,Ghaziyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,1.70E+01,3.00E+01,2.00E+01,3.00E+00,1.70E+01,1.00E+01,Aabadiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,1.50E+01,2.50E+01,0.00E+00,2.50E+01,1.00E+01,Chourit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.50E+01,2.50E+01,0.00E+00,2.00E+01,1.00E+01,Bsaba Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E-01,3.00E+01,2.00E+01,1.00E+01,2.50E+01,3.00E+00,9.00E+00,Aayta Ech-Chaab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.00E+01,2.50E+01,5.00E+00,2.00E+01,1.00E+01,9.00E+00,Meri,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,2.00E+01,2.00E+01,2.50E+01,1.50E+01,1.00E+01,9.00E+00,Ouadi Khaled,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,4.00E+01,1.00E+01,1.00E+01,1.00E+01,2.00E+01,9.00E+00,Hakour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,2.00E+01,3.00E+01,1.50E+01,1.00E+01,1.50E+01,9.00E+00,Zrariyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,3.00E+01,1.50E+01,1.00E+01,1.50E+01,9.00E+00,Dahr El-Ahmar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,2.00E+01,3.00E+01,1.00E+01,1.00E+01,9.00E+00,Ouadi Chahrour El Aaoulia,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,1.00E+01,2.50E+01,4.00E+01,1.00E+01,5.00E+00,9.00E+00,Minyara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,6.00E+01,2.00E+01,4.00E+00,5.00E+00,2.00E+00,9.00E+00,Btaaboura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.50E+01,3.00E+01,1.00E+01,5.00E+00,1.00E+01,9.00E+00,Bteghrine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,4.00E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,8.00E+00,Basateen Aakar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,2.00E+01,1.50E+01,1.50E+01,2.00E+01,2.00E+01,8.00E+00,Ghbaleh Kesrouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,1.00E+00,2.00E+01,2.00E+01,1.40E+01,2.00E+01,1.50E+01,8.00E+00,Selfaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,4.50E+01,2.50E+01,3.00E+00,1.50E+01,3.00E+00,8.00E+00,Dik El-Mehdi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.50E+01,1.50E+01,2.00E+01,2.50E+01,1.50E+01,1.50E+01,8.00E+00,Deir Kifa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,3.00E+01,2.00E+01,2.00E+01,1.00E+01,1.00E+01,8.00E+00,Kroum El-Aarab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,2.50E+01,3.00E+01,1.50E+01,1.00E+01,1.00E+01,8.00E+00,Keyfoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.00E+01,1.00E+01,2.00E+01,1.00E+01,3.00E+01,8.00E+00,Torbol Menie,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.50E+01,1.50E+01,3.00E+01,1.00E+01,2.00E+01,8.00E+00,Mazraat Harkish,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,4.00E+01,1.20E+01,2.00E+01,4.00E+01,8.00E+00,1.00E+01,8.00E+00,Majdel Aanjar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,2.00E+00,1.50E+01,3.00E+01,3.00E+01,7.00E+00,7.00E+00,8.00E+00,Jall Ed-Dib,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,4.00E+01,1.20E+01,1.50E+01,5.00E+00,1.50E+01,8.00E+00,Aaynata Baalbek,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,2.50E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,8.00E+00,Kfarzabad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.50E+01,5.00E+01,1.00E+01,5.00E+00,1.00E+01,8.00E+00,Kfar Chellal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,2.00E+01,3.00E+01,5.00E+00,2.20E+01,8.00E+00,Haret Jandal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,1.00E+01,1.50E+01,3.00E+01,5.00E+00,3.00E+01,8.00E+00,Lala,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,1.20E+01,2.60E+01,2.50E+01,4.00E+00,1.50E+01,8.00E+00,Kfar Sir,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E-01,0.00E+00,3.80E+01,2.00E+01,1.50E+01,1.50E+01,4.00E+00,7.50E+00,Ouadi Chahrour Es-Soufla,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,2.00E+01,2.50E+01,2.50E+01,1.00E+01,2.00E+01,1.00E+01,7.00E+00,Ketermaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,2.00E+01,2.50E+01,1.50E+01,2.00E+01,1.00E+01,7.00E+00,Teffahta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,7.00E+00,2.20E+01,3.50E+01,1.20E+01,1.50E+01,8.00E+00,7.00E+00,Ras Baalbek Ech-Charqi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,8.00E+00,2.00E+01,3.00E+01,1.00E+01,1.00E+01,2.00E+01,7.00E+00,Meiss Ej-Jabal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,8.00E+00,1.50E+01,3.00E+01,8.00E+00,3.00E+01,7.00E+00,Aaymar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.50E+01,1.50E+01,2.20E+01,2.50E+01,6.00E+00,1.50E+01,7.00E+00,Taraiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,2.00E+01,1.00E+01,3.50E+01,5.00E+00,2.00E+01,7.00E+00,Dimane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,2.00E+01,2.50E+01,2.00E+01,3.00E+00,1.50E+01,7.00E+00,Ras Kifa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,0.00E+00,1.00E+01,2.50E+01,1.50E+01,2.00E+01,2.00E+01,6.00E+00,Baadarane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.30E+01,0.00E+00,8.00E+00,1.20E+01,1.80E+01,1.60E+01,2.70E+01,6.00E+00,Hilan,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.40E+01,1.70E+01,2.00E+01,1.20E+01,1.90E+01,6.00E+00,Aintoura Kesrouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,2.00E+01,1.40E+01,1.00E+01,1.00E+01,6.00E+00,Douma,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,3.00E+01,2.50E+01,1.50E+01,1.00E+01,1.20E+01,6.00E+00,Cheikh Mohammad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+00,2.00E+01,1.40E+01,1.40E+01,8.00E+00,1.80E+01,6.00E+00,Terbol Zahleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,5.00E+00,1.50E+01,2.00E+01,2.20E+01,5.00E+00,2.80E+01,6.00E+00,Bdebba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,5.00E+00,2.00E+01,2.90E+01,5.00E+00,2.50E+01,6.00E+00,Qsarnaba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,8.40E+01,3.00E+00,2.00E+00,4.00E+00,1.00E+00,6.00E+00,Kharnoub,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+01,2.00E+01,4.00E+01,2.00E+01,3.00E+00,1.00E+01,6.00E+00,Iaat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+7.00E+00,0.00E+00,1.60E+01,1.20E+01,2.80E+01,3.00E+00,2.80E+01,6.00E+00,Kafr Harra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,8.00E+01,1.00E+01,2.00E+00,2.00E+00,0.00E+00,6.00E+00,Amioun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.20E+01,2.00E+01,5.00E+01,2.00E+00,1.00E+01,6.00E+00,Deir El-Ghazal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,5.00E+00,1.00E+01,2.00E+01,4.00E+01,2.00E+01,5.00E+00,Bayzoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E+00,3.00E+01,3.00E+01,2.00E+00,3.00E+01,2.00E+00,5.00E+00,Jbaa En-Nabatiyeh-Ein-Boswar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,0.00E+00,3.00E+01,3.00E+01,0.00E+00,5.00E+00,Ouadi Es-Sitt,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,1.00E+01,2.50E+01,2.00E+01,3.00E+01,9.00E+00,5.00E+00,Qennabet Broummana,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,3.50E+01,1.00E+01,2.00E+01,2.50E+01,0.00E+00,5.00E+00,Aatchaneh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,3.50E+01,2.50E+01,5.00E+00,2.50E+01,4.00E+00,5.00E+00,Khreibet Baabda,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,2.00E+01,1.50E+01,2.50E+01,0.00E+00,5.00E+00,Qannebet Salima,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,2.00E+01,1.50E+01,1.50E+01,2.50E+01,1.50E+01,5.00E+00,Hdeine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,2.00E+01,2.00E+01,1.50E+01,2.50E+01,1.00E+01,5.00E+00,Majdelzoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,1.50E+01,2.50E+01,1.50E+01,5.00E+00,Helouet Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+01,1.00E+01,1.00E+01,2.00E+01,2.50E+01,2.50E+01,5.00E+00,Kfar Dounine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,1.00E+01,3.00E+01,1.50E+01,2.50E+01,1.00E+01,5.00E+00,Hocheb,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,5.00E+01,2.00E+01,2.00E+00,2.00E+01,2.00E+00,5.00E+00,Sarba En-Nabatieh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,5.00E+01,1.00E+01,1.00E+01,2.00E+01,3.00E+00,5.00E+00,Aanjar (Haouch Moussa),http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,5.00E+00,Kfarhata ,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,3.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+01,5.00E+00,Mrah Es-Sfire,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,4.00E+00,3.00E+01,3.00E+01,5.00E+00,2.00E+01,5.00E+00,5.00E+00,Yater,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,3.00E+01,2.00E+01,1.80E+01,2.00E+01,5.00E+00,5.00E+00,Kfarfou,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.50E+01,3.00E+01,1.00E+01,2.00E+01,5.00E+00,5.00E+00,Ghassaniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.50E+01,1.00E+01,1.50E+01,2.00E+01,2.00E+01,5.00E+00,Qornayel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.50E+01,2.50E+01,1.00E+01,2.00E+01,1.40E+01,5.00E+00,Hazmiyet-Miniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,2.00E+01,2.00E+01,1.50E+01,2.00E+01,1.50E+01,5.00E+00,Aain Yaaqoub,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,2.00E+01,1.50E+01,1.70E+01,2.00E+01,1.80E+01,5.00E+00,Chhim,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,2.00E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,Zaoutar Ech-Charqiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.00E+01,2.00E+01,1.50E+01,2.00E+01,1.50E+01,5.00E+00,Toula,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,2.00E+01,2.00E+01,2.50E+01,2.00E+01,1.00E+01,5.00E+00,Aassoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,Almat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,Majdel el-Koura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.50E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,Besri Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,4.00E+00,1.90E+01,2.50E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,Barsa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.50E+01,1.00E+01,2.00E+01,2.00E+01,2.00E+01,5.00E+00,Zouq El-Hadara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.50E+01,1.50E+01,2.50E+01,2.00E+01,1.50E+01,5.00E+00,Kaoutariyet Es-Siyad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,1.50E+01,2.50E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,Tarchich,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,1.50E+01,3.00E+01,2.00E+01,2.00E+01,9.00E+00,5.00E+00,Aaita Ej-Jabal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,2.00E+01,4.00E+01,2.00E+01,0.00E+00,5.00E+00,Kafr Saroun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,2.90E+01,1.00E+01,1.50E+01,2.80E+01,2.00E+01,1.80E+01,5.00E+00,Hermel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+01,1.00E+01,1.50E+01,2.00E+01,2.00E+01,2.50E+01,5.00E+00,berqayel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+01,1.00E+01,2.00E+01,1.50E+01,2.00E+01,1.50E+01,5.00E+00,Fikani,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,7.00E+00,1.00E+01,1.50E+01,2.00E+01,2.00E+01,2.00E+01,5.00E+00,Charqiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.00E+01,2.00E+01,2.50E+01,2.00E+01,1.50E+01,5.00E+00,Maaraboun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.00E+01,1.50E+01,2.00E+01,2.00E+01,2.50E+01,5.00E+00,Yanouh Sour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,5.00E+00,3.00E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,Ouadi El-Karm El-Matn,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,1.60E+01,2.00E+01,2.20E+01,1.80E+01,1.60E+01,5.00E+00,Aadaysseh Marjaayoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,6.00E+01,5.00E+00,5.00E+00,1.50E+01,5.00E+00,5.00E+00,Deir El-Ahmar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,4.00E+01,2.00E+01,1.50E+01,1.50E+01,5.00E+00,5.00E+00,Aaraiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,2.00E+00,3.50E+01,2.50E+01,1.00E+01,1.50E+01,1.00E+01,5.00E+00,Mrouj,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,2.50E+01,1.00E+01,1.50E+01,1.00E+01,5.00E+00,Beqaata Kanaan,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.50E+01,2.50E+01,5.00E+00,0.00E+00,1.50E+01,4.50E+01,5.00E+00,Btedaai,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,2.50E+01,3.00E+01,2.00E+01,1.50E+01,5.00E+00,5.00E+00,El Kfeir,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.50E+01,1.50E+01,2.00E+01,1.50E+01,1.50E+01,5.00E+00,Kfar Dibiane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.40E+01,2.00E+01,2.00E+01,1.50E+01,1.50E+01,5.00E+00,Maasser Beit Ed-Dine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,2.00E+01,2.00E+01,2.00E+01,1.50E+01,1.00E+01,5.00E+00,Aaqtanit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.00E+01,3.00E+01,2.00E+01,1.50E+01,5.00E+00,5.00E+00,Damour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.00E+01,4.00E+01,5.00E+00,1.50E+01,1.00E+01,5.00E+00,Mina ,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.00E+01,2.00E+01,2.00E+01,1.50E+01,1.50E+01,5.00E+00,Srifa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,2.00E+01,1.50E+01,2.50E+01,1.50E+01,1.90E+01,5.00E+00,Mrayjat Zahleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.00E+01,2.00E+01,1.50E+01,1.50E+01,1.50E+01,5.00E+00,Maarab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,3.00E+01,1.50E+01,1.50E+01,1.00E+01,5.00E+00,Ramyet Bent Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.50E+01,1.50E+01,2.50E+01,1.50E+01,2.00E+01,5.00E+00,Charoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.50E+01,3.00E+01,2.00E+01,1.50E+01,1.00E+01,5.00E+00,Loubieh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,1.50E+01,3.00E+01,3.00E+01,1.50E+01,5.00E+00,5.00E+00,Aathrine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,1.50E+01,1.50E+01,2.50E+01,1.50E+01,2.00E+01,5.00E+00,mazboud,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+00,1.50E+01,1.50E+01,1.50E+01,1.50E+01,1.50E+01,5.00E+00,Aain Ez-Zeit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,1.50E+01,2.50E+01,2.00E+01,1.50E+01,1.50E+01,5.00E+00,Darb Es-Sim,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.50E+01,1.50E+01,2.50E+01,1.50E+01,2.00E+01,5.00E+00,Harouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.50E+01,1.50E+01,1.50E+01,1.50E+01,3.00E+01,5.00E+00,Tawfiqiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,3.00E+01,2.00E+01,1.50E+01,1.00E+01,5.00E+00,Zrazeer,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.50E+01,3.50E+01,4.00E+00,1.50E+01,2.50E+01,5.00E+00,Bab Mareaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,2.00E+01,2.00E+01,1.50E+01,2.50E+01,5.00E+00,Jdaidet Ghazir,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,3.00E+01,1.00E+01,2.00E+01,2.50E+01,1.50E+01,1.50E+01,5.00E+00,Tall Meaayan Tall Kiri,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.00E+01,2.00E+01,2.50E+01,1.50E+01,2.00E+01,5.00E+00,Baalbek,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,5.00E+00,1.00E+01,2.00E+01,2.00E+01,1.50E+01,1.00E+01,5.00E+00,Tall Aabbas Ech-Charqi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.00E+01,2.00E+01,2.50E+01,1.50E+01,1.50E+01,5.00E+00,Daoura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.00E+01,1.50E+01,2.50E+01,1.50E+01,2.00E+01,5.00E+00,Nabha Ed-Damdoum,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.00E+01,2.50E+01,3.50E+01,1.50E+01,8.00E+00,5.00E+00,Nabi Chit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,1.00E+01,2.00E+01,1.50E+01,3.00E+01,5.00E+00,Howara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,1.50E+01,2.00E+01,1.50E+01,2.50E+01,5.00E+00,Mrah Kwakh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,3.00E+01,2.00E+01,1.50E+01,1.50E+01,5.00E+00,Daghleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,1.00E+01,2.00E+01,1.50E+01,3.50E+01,5.00E+00,Kafr horra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,5.00E+00,1.00E+01,3.00E+01,1.50E+01,3.00E+01,5.00E+00,Majdala,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,3.50E+01,3.50E+01,5.00E+00,1.40E+01,5.00E+00,5.00E+00,Tibnine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+00,2.50E+01,1.50E+01,1.30E+01,1.20E+01,1.50E+01,5.00E+00,Aayha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,7.00E+01,1.40E+01,1.00E+00,1.00E+01,0.00E+00,5.00E+00,Aalma Ech-Chaab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,6.00E+01,1.50E+01,7.00E+00,1.00E+01,3.00E+00,5.00E+00,Aamchit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.50E+01,1.00E+01,1.00E+01,1.00E+01,1.00E+01,5.00E+00,Aaley Bsatine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+01,2.00E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,Hasbaiya El-Matn,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+01,2.00E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,Sabbah,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.50E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,5.00E+00,Beit El-Kekko,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,4.00E+01,2.80E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,Yammouneh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,4.00E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,5.00E+00,Eddeh Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,3.00E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,Aabrine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,3.00E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,Qalaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,3.80E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,5.00E+00,Ghoifine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,3.50E+01,1.50E+01,1.50E+01,1.00E+01,1.00E+01,5.00E+00,Aana,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,3.50E+01,2.80E+01,1.50E+01,1.00E+01,5.00E+00,5.00E+00,Deir Billa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.50E+01,2.50E+01,2.00E+01,1.00E+01,4.00E+00,5.00E+00,Jdaidet Marjaayoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,3.50E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,Aain Ej-Jdideh Aaley,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,2.50E+01,2.50E+01,1.00E+01,0.00E+00,5.00E+00,Aayroun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,5.00E+01,0.00E+00,1.00E+01,0.00E+00,5.00E+00,Jaj,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+01,3.00E+01,1.00E+01,2.50E+01,1.00E+01,1.50E+01,5.00E+00,Aabra Saida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,3.00E+01,2.50E+01,1.50E+01,1.00E+01,1.00E+01,5.00E+00,Mazraat beit Mchaik,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,3.00E+01,3.00E+01,1.00E+01,1.00E+01,1.00E+01,5.00E+00,Berbara Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.50E+01,2.00E+01,1.00E+01,1.00E+01,5.00E+00,Borj Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+02,2.50E+01,1.50E+01,1.50E+01,1.00E+01,1.50E+01,5.00E+00,Behouaita,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+01,2.50E+01,2.50E+01,2.00E+01,1.00E+01,1.00E+01,5.00E+00,Nahmeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+01,2.50E+01,1.00E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,Miyeh ou Miyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.50E+01,2.00E+01,2.50E+01,1.00E+01,1.00E+01,5.00E+00,Rafid Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,2.50E+01,2.00E+01,2.40E+01,1.00E+01,1.50E+01,5.00E+00,Kfar michki,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+00,2.50E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,5.00E+00,Safra Kesrouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,2.50E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Mlikh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.50E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Qanya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.50E+01,3.00E+01,1.50E+01,1.00E+01,1.00E+01,5.00E+00,Ghbaet Bolonya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.50E+01,3.00E+01,2.00E+01,1.00E+01,5.00E+00,5.00E+00,Zandouqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.50E+01,1.40E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,Chihine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Aaytanit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,3.00E+01,2.00E+01,1.00E+01,1.00E+01,5.00E+00,Asnoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+01,2.00E+01,1.00E+01,3.00E+01,1.00E+01,1.50E+01,5.00E+00,Rimat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+01,2.00E+01,1.00E+01,5.00E+01,1.00E+01,3.00E+00,5.00E+00,Souaisset Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+01,2.00E+01,1.50E+01,3.00E+01,1.00E+01,2.00E+01,5.00E+00,Bmaryam,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,2.00E+01,3.00E+01,2.00E+01,1.00E+01,1.00E+01,5.00E+00,Kfar Aaqqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,2.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Mharbiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,2.00E+01,2.50E+01,3.00E+01,1.00E+01,1.00E+01,5.00E+00,Batloun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,2.00E+01,4.50E+01,1.00E+01,1.00E+01,8.00E+00,5.00E+00,Zefta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,2.00E+01,3.50E+01,1.00E+01,1.00E+01,1.00E+01,5.00E+00,Idbil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Dellafeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,0.00E+00,2.00E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Ghineh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.00E+01,1.50E+01,1.00E+01,2.50E+01,5.00E+00,Bnoueiti,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,1.50E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,Jouar El-Haouz,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.50E+01,2.50E+01,1.00E+01,1.00E+01,5.00E+00,Rmeilet Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,3.50E+01,2.20E+01,1.00E+01,7.00E+00,5.00E+00,Sebaal Zgharta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,5.00E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,Maghdoucheh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.50E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Nahr Ibrahim,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.50E+01,2.10E+01,2.20E+01,1.00E+01,2.20E+01,5.00E+00,Bqosta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.50E+01,2.00E+01,2.00E+01,1.00E+01,2.50E+01,5.00E+00,Haret Saida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.50E+01,1.50E+01,2.50E+01,1.00E+01,2.50E+01,5.00E+00,Sarin Fawqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,1.50E+01,2.50E+01,2.00E+01,1.00E+01,2.30E+01,5.00E+00,Joubb Jannine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,5.00E+00,1.50E+01,1.50E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Aarab Salim,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.50E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Aakkar El-Aatiqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.50E+01,2.00E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,Jadra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,1.50E+01,3.00E+01,3.30E+01,1.00E+01,5.00E+00,5.00E+00,Douris,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,4.00E+00,1.50E+01,3.00E+01,1.10E+01,1.00E+01,2.50E+01,5.00E+00,Saouanet Marjayoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,3.00E+00,1.50E+01,1.50E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Hlaliyeh ,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,1.50E+01,3.00E+01,2.00E+01,1.00E+01,1.50E+01,5.00E+00,Majdel El-Meouch,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,1.50E+01,2.00E+01,2.20E+01,1.00E+01,2.70E+01,5.00E+00,Nakhleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.50E+01,2.00E+01,2.50E+01,1.00E+01,1.50E+01,5.00E+00,Bsalya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,3.00E+01,2.50E+01,1.00E+01,1.00E+01,5.00E+00,Aali En-Nahri,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,2.00E+01,2.00E+01,1.00E+01,2.50E+01,5.00E+00,Arzai,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,2.50E+01,3.50E+01,1.00E+01,5.00E+00,5.00E+00,Mazraat Balda,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,3.00E+01,3.00E+01,1.00E+01,5.00E+00,5.00E+00,Qantarat Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,1.50E+01,2.50E+01,2.20E+01,1.00E+01,2.00E+01,5.00E+00,Baaqline,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.50E+01,5.00E+01,1.40E+01,1.00E+01,5.00E+00,5.00E+00,Toula El-Batroun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,3.00E+01,3.00E+01,1.00E+01,1.00E+01,5.00E+00,Kfar Aaqab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,3.00E+01,1.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Nabha Mehfara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+01,1.00E+01,1.00E+01,4.00E+01,1.00E+01,2.00E+01,5.00E+00,Ghandouriyet Bent Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.50E+01,1.00E+01,2.00E+01,2.00E+01,1.00E+01,3.00E+01,5.00E+00,Biret Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.50E+01,1.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,5.00E+00,Sammaqiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+01,1.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Aain Kfar Zabad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.00E+01,2.00E+01,3.00E+01,1.00E+01,2.00E+01,5.00E+00,Aain Aarab Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.00E+01,1.00E+01,5.00E+01,1.00E+01,1.00E+01,5.00E+00,Aain challal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.00E+01,1.00E+01,3.00E+01,1.00E+01,3.00E+01,5.00E+00,Ouadi Nakhleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.00E+01,2.00E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,Aain Drafil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,3.00E+00,1.00E+01,5.00E+00,2.00E+01,1.00E+01,4.00E+01,5.00E+00,Houaich,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,1.00E+01,2.00E+01,3.00E+01,1.00E+01,2.00E+01,5.00E+00,Boustane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.00E+01,1.00E+01,2.00E+01,1.00E+01,3.50E+01,5.00E+00,Kafrnoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.00E+01,1.50E+01,2.00E+01,1.00E+01,3.00E+01,5.00E+00,Tshea,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,1.00E+01,1.00E+01,2.00E+01,1.00E+01,4.00E+01,5.00E+00,Fanar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.50E+01,0.00E+00,1.00E+01,1.00E+01,1.00E+01,1.00E+01,3.00E+01,5.00E+00,Souairi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,2.50E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Merouahine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,2.50E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,Bmahray,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,2.50E+01,3.50E+01,1.00E+01,1.00E+01,5.00E+00,Ghidras,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.00E+01,2.00E+01,2.50E+01,1.00E+01,3.00E+01,5.00E+00,Hakel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.00E+01,3.00E+01,2.50E+01,1.00E+01,2.00E+01,5.00E+00,hadtoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+01,5.00E+00,2.00E+01,2.00E+01,1.00E+01,2.00E+01,5.00E+00,Daraiya Kesrouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+01,5.00E+00,1.00E+01,3.00E+01,1.00E+01,2.00E+01,5.00E+00,Nabi Osmane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,5.00E+00,1.50E+01,2.50E+01,1.00E+01,3.00E+01,5.00E+00,Qachlaq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,5.00E+00,5.00E+00,3.50E+01,1.00E+01,4.00E+01,5.00E+00,Bichtlida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,5.00E+00,1.00E+01,2.50E+01,1.00E+01,3.50E+01,5.00E+00,Bourj El-Brajneh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,5.00E+00,1.00E+01,2.00E+01,1.00E+01,4.00E+01,5.00E+00,Rawda Village,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,5.00E+00,5.00E+00,3.80E+01,1.00E+01,3.50E+01,5.00E+00,Mazraat Hokka,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E+00,1.50E+01,3.00E+01,2.00E+01,9.00E+00,2.00E+01,5.00E+00,Maaysra Kesrouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,4.50E+01,2.00E+01,1.40E+01,8.00E+00,5.00E+00,5.00E+00,Qaynour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.50E+01,3.00E+01,2.00E+01,8.00E+00,1.00E+01,5.00E+00,Chanay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,3.00E+00,1.50E+01,2.20E+01,2.10E+01,8.00E+00,2.10E+01,5.00E+00,Qaraaoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.50E+01,2.80E+01,7.00E+00,5.00E+00,5.00E+00,Bhamdoun El-Mhatta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,1.00E+01,2.00E+01,1.50E+01,2.50E+01,7.00E+00,2.50E+01,5.00E+00,Ouarhaniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,3.00E+01,1.00E+01,2.00E+01,2.50E+01,7.00E+00,3.00E+01,5.00E+00,Kounine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,6.00E+01,1.50E+01,1.00E+01,6.00E+00,3.00E+00,5.00E+00,Vidar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.70E+01,2.70E+01,2.00E+01,6.00E+00,1.00E+01,5.00E+00,Qobbayaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+01,2.00E+01,1.90E+01,2.00E+01,6.00E+00,2.50E+01,5.00E+00,Mejdlaiya Zgharta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.00E+01,4.00E+01,2.00E+01,6.00E+00,7.00E+00,5.00E+00,Ghabat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.80E+01,4.00E+01,1.70E+01,6.00E+00,1.20E+01,5.00E+00,Hidab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,7.50E+01,5.00E+00,6.00E+00,5.00E+00,3.00E+00,5.00E+00,Bqaa Kafra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,6.50E+01,0.00E+00,2.00E+01,5.00E+00,0.00E+00,5.00E+00,Ouadi Chahine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,6.50E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+00,5.00E+00,Fghal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,6.00E+01,1.00E+01,1.00E+01,5.00E+00,1.00E+01,5.00E+00,El Ghabe,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+01,2.50E+01,1.00E+01,5.00E+00,5.00E+00,5.00E+00,Kfar Aabida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.50E+01,2.00E+01,2.00E+01,5.00E+00,5.00E+00,5.00E+00,Beit Chlala,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,4.00E+01,2.50E+01,1.00E+01,5.00E+00,1.00E+01,5.00E+00,Mtayleb,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,4.00E+01,2.50E+01,1.60E+01,5.00E+00,8.00E+00,5.00E+00,Thoum,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,1.50E+01,2.00E+01,5.00E+00,1.50E+01,5.00E+00,Hamat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,3.50E+01,1.00E+01,5.00E+00,1.00E+01,5.00E+00,Rayfoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,3.00E+01,1.50E+01,5.00E+00,1.00E+01,5.00E+00,Tallet Chattaha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,2.00E+01,3.00E+01,2.00E+01,1.00E+01,5.00E+00,3.00E+01,5.00E+00,Aain Ksour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,3.00E+01,2.00E+01,2.00E+01,5.00E+00,1.00E+01,5.00E+00,Bziza,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,3.00E+01,3.00E+01,2.00E+01,5.00E+00,8.00E+00,5.00E+00,Kfar Nabrakh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,3.00E+01,3.00E+01,1.00E+01,5.00E+00,1.50E+01,5.00E+00,Saadnayel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,3.00E+01,3.00E+01,1.50E+01,5.00E+00,1.00E+01,5.00E+00,Aayoun Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,3.00E+01,1.50E+01,3.00E+01,5.00E+00,1.00E+01,5.00E+00,Haouch En-Nabi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,3.00E+01,3.00E+01,1.00E+01,5.00E+00,1.00E+01,5.00E+00,Qelaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,3.00E+01,1.00E+01,3.00E+01,5.00E+00,2.00E+01,5.00E+00,Qalhat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,3.00E+01,2.00E+01,2.00E+01,5.00E+00,1.00E+01,5.00E+00,Midane Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,3.00E+01,2.00E+01,2.00E+01,5.00E+00,1.00E+01,5.00E+00,Salhiyet Saida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,1.50E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,Kneisset Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,3.00E+01,1.00E+01,5.00E+00,2.00E+01,5.00E+00,Aain Et-Teffaha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.00E+01,3.00E+01,5.00E+00,1.00E+01,5.00E+00,Kleyleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,7.00E+01,2.50E+01,1.50E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,Izal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,2.50E+01,2.50E+01,2.00E+01,5.00E+00,1.50E+01,5.00E+00,Deir Qanoun En-Nahr,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.50E+01,1.50E+01,2.50E+01,5.00E+00,2.00E+01,5.00E+00,Choukine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,2.00E+00,2.50E+01,3.00E+01,3.00E+01,5.00E+00,5.00E+00,5.00E+00,Rijmeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,2.00E+01,2.00E+01,5.00E+00,2.50E+01,5.00E+00,Zaaitreh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,5.00E+01,2.00E+01,1.50E+01,2.50E+01,5.00E+00,1.50E+01,5.00E+00,Aayoun El-Ghizlane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+01,2.00E+01,1.00E+01,2.50E+01,5.00E+00,2.00E+01,5.00E+00,Ilat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,2.00E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,Aaley,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,2.00E+01,3.00E+01,2.00E+01,5.00E+00,1.00E+01,5.00E+00,Kfar Habou,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,Blida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+9.00E+00,5.00E+00,2.00E+01,1.00E+01,3.10E+01,5.00E+00,2.00E+01,5.00E+00,Sir El-Gharbiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,3.00E+00,2.00E+01,3.00E+01,1.50E+01,5.00E+00,1.00E+01,5.00E+00,Assia,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,Mazraat Bani Saab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.00E+01,3.00E+01,2.00E+01,5.00E+00,1.50E+01,5.00E+00,Kafraiya West Bekaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,0.00E+00,2.00E+01,1.00E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,Sirhmoul,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.00E+01,1.00E+01,2.00E+01,5.00E+00,3.00E+01,5.00E+00,Hsoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.00E+01,2.00E+01,1.00E+01,5.00E+00,3.00E+01,5.00E+00,Khzaiz,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,1.50E+01,3.00E+01,5.00E+00,2.00E+01,5.00E+00,Breissat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,1.50E+01,2.00E+01,5.00E+00,3.00E+01,5.00E+00,Deir Mimas,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,3.00E+01,2.50E+01,5.00E+00,1.00E+01,5.00E+00,Zhilta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,2.50E+01,5.00E+00,2.50E+01,5.00E+00,Chartoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.50E+01,1.50E+01,5.00E+00,3.00E+01,5.00E+00,Serraaine Et-Tahta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.80E+01,3.00E+01,3.00E+01,5.00E+00,1.00E+01,5.00E+00,Brih,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,1.70E+01,1.00E+01,2.00E+01,5.00E+00,4.00E+01,5.00E+00,Ansar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.50E+01,1.50E+01,3.50E+01,2.00E+01,5.00E+00,1.50E+01,5.00E+00,Hsayn,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.50E+01,2.50E+01,2.50E+01,5.00E+00,2.00E+01,5.00E+00,Ghazzeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.50E+01,4.00E+01,2.00E+01,5.00E+00,1.00E+01,5.00E+00,Deir Qanoun El-Aain,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.50E+01,1.00E+01,2.50E+01,5.00E+00,3.00E+01,5.00E+00,Chaaitiyeh-Malkiyah,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,2.50E+01,2.50E+01,5.00E+00,2.50E+01,5.00E+00,Deir El-harf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,2.50E+01,2.50E+01,5.00E+00,2.50E+01,5.00E+00,Jarmaq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,1.00E+01,1.20E+01,1.50E+01,2.50E+01,5.00E+00,3.50E+01,5.00E+00,Bakhaaoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,7.00E+01,1.00E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,5.00E+00,Barghoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+01,1.00E+01,2.00E+01,1.50E+01,5.00E+00,4.00E+01,5.00E+00,Qounaitra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.50E+01,1.00E+01,1.50E+01,1.00E+01,5.00E+00,1.00E+01,5.00E+00,Kfour En-Nabatieh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,1.00E+01,2.00E+01,2.00E+01,5.00E+00,3.00E+01,5.00E+00,Aazqai,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.00E+01,1.50E+01,2.50E+01,5.00E+00,3.00E+01,5.00E+00,Zouq El Hosniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,4.00E+00,1.00E+01,1.00E+01,3.00E+01,5.00E+00,3.50E+01,5.00E+00,Rmadiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.00E+01,1.00E+01,2.00E+01,5.00E+00,4.00E+01,5.00E+00,Beit El Haj,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,1.00E+01,1.50E+01,2.00E+01,5.00E+00,3.50E+01,5.00E+00,Ghaboune,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,0.00E+00,1.00E+01,1.50E+01,3.00E+01,5.00E+00,2.00E+01,5.00E+00,Dmit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,1.50E+01,2.50E+01,5.00E+00,3.50E+01,5.00E+00,Houmine Et-Tahta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.00E+01,2.00E+01,3.00E+01,5.00E+00,3.00E+01,5.00E+00,Chtaura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+7.00E+01,2.00E+00,5.00E+00,5.00E+00,5.00E+00,5.00E+00,5.00E+00,5.00E+00,Chebaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+00,4.00E+01,4.00E+01,5.00E+00,5.00E+00,5.00E+00,Zouk Mkayel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.50E+01,2.00E+01,2.50E+01,3.00E+00,3.00E+01,5.00E+00,Ehmej,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,4.50E+01,2.00E+01,1.50E+01,2.00E+00,1.20E+01,5.00E+00,Dahr Laissine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,1.00E+01,3.50E+01,3.00E+01,1.50E+01,2.00E+00,1.00E+01,5.00E+00,Aain Es-Sindiane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,2.00E+00,2.00E+01,3.00E+01,3.00E+01,2.00E+00,1.00E+01,5.00E+00,Aain Harsha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,2.80E+01,2.00E+00,2.50E+01,5.00E+00,Blaybel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,1.00E+01,1.50E+01,2.00E+00,1.00E+01,5.00E+00,Bnabil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,3.00E+01,9.00E+00,1.00E+00,2.00E+01,5.00E+00,Faraya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.00E+01,3.00E+01,2.50E+01,0.00E+00,1.50E+01,5.00E+00,Sayssouq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,4.00E+01,3.00E+01,0.00E+00,5.00E+00,5.00E+00,Charbila,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,3.00E+01,2.50E+01,0.00E+00,2.00E+01,5.00E+00,Jouret El-Ballout,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+00,0.00E+00,0.00E+00,3.00E+01,0.00E+00,5.00E+01,5.00E+00,AAridet Cheikh Zennad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E-01,1.00E+00,2.00E+01,3.00E+01,2.50E+01,1.00E+01,1.00E+01,4.90E+00,Hasrayel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+01,1.00E+01,3.00E+01,2.00E+01,2.50E+01,1.00E+01,4.00E+00,Zeita,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.00E+01,3.00E+01,1.00E+01,2.00E+01,5.00E+00,4.00E+00,Kour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.80E+01,4.00E+01,6.00E+00,2.00E+01,2.00E+00,4.00E+00,Aaramta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,7.00E+00,2.50E+01,2.50E+01,9.00E+00,2.00E+01,9.00E+00,4.00E+00,Borj Rahhal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,1.20E+01,2.00E+01,2.20E+01,2.00E+01,2.00E+01,4.00E+00,Aanqoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,2.00E-01,1.80E+01,2.20E+01,1.70E+01,1.90E+01,1.60E+01,4.00E+00,Nmairiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+9.00E+00,8.00E+00,2.00E+01,1.70E+01,1.40E+01,1.70E+01,1.90E+01,4.00E+00,Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E+00,1.00E+01,1.50E+01,2.50E+01,1.50E+01,3.00E+01,4.00E+00,Tikrit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.00E+01,2.00E+01,3.50E+01,1.50E+01,1.50E+01,4.00E+00,Deir Koucheh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+6.00E+00,2.00E+00,9.00E+00,1.50E+01,1.70E+01,1.50E+01,3.40E+01,4.00E+00,Beit Lif,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,2.50E+01,2.00E+01,2.50E+01,1.10E+01,1.20E+01,4.00E+00,Selaata,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,4.00E+00,4.00E+01,2.00E+01,9.00E+00,1.00E+01,1.50E+01,4.00E+00,Tayr Falsay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,4.00E+01,2.50E+01,1.00E+01,1.00E+01,1.00E+01,4.00E+00,Kafrya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,3.50E+01,1.50E+01,2.50E+01,1.00E+01,1.00E+01,4.00E+00,Kfar Hazir,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.00E+01,1.50E+01,2.00E+01,1.00E+01,2.00E+01,4.00E+00,Aandqet,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,4.00E+00,2.50E+01,2.80E+01,1.50E+01,1.00E+01,1.50E+01,4.00E+00,El Marej,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.50E+01,4.00E+01,1.00E+01,1.00E+01,1.00E+01,4.00E+00,Dahr Es-Souane El-Matn,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.20E+01,2.00E+01,4.00E+01,1.00E+01,3.00E+00,4.00E+00,Aain Jrain,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,2.00E+01,2.00E+01,2.50E+01,1.00E+01,2.00E+01,4.00E+00,Binnay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,3.00E+00,1.10E+01,1.50E+01,2.50E+01,1.00E+01,2.00E+01,4.00E+00,Mayfadoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+6.00E+00,5.00E+00,1.00E+01,1.00E+01,2.00E+01,1.00E+01,4.00E+01,4.00E+00,Mansoura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,1.00E+01,2.00E+01,3.10E+01,1.00E+01,2.00E+01,4.00E+00,Houmine El-Faouqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,1.50E+01,3.00E+01,1.00E+01,3.00E+01,4.00E+00,Ouadi Ed-Deir,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.50E+01,8.00E+00,1.00E+01,2.50E+01,8.00E+00,3.50E+01,4.00E+00,Tall Bireh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,1.50E+01,1.70E+01,3.00E+01,2.20E+01,7.00E+00,1.60E+01,4.00E+00,Sohmor,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E-01,3.00E+00,3.20E+01,2.78E+01,1.80E+01,6.00E+00,1.20E+01,4.00E+00,Cheikh Taba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,5.00E+01,2.00E+01,1.00E+01,5.00E+00,1.00E+01,4.00E+00,Bedghan Oua Ouadi Bedghan,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,3.00E+00,3.00E+01,1.00E+01,2.00E+01,5.00E+00,3.00E+01,4.00E+00,Hrar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.60E+01,3.50E+01,2.00E+01,5.00E+00,1.00E+01,4.00E+00,Aammatour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,2.50E+01,2.00E+01,2.00E+01,5.00E+00,2.50E+01,4.00E+00,Aazra ouel Aazr,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,1.00E+01,3.00E+01,5.00E+00,3.00E+01,4.00E+00,Mzraat Kefraya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,0.00E+00,7.00E+00,2.00E+01,2.00E+01,5.00E+00,4.00E+01,4.00E+00,Majdaloun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,6.00E+00,1.50E+01,3.00E+01,5.00E+00,4.00E+01,4.00E+00,Chouit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,6.00E+00,5.00E+00,3.00E+01,5.00E+01,5.00E+00,5.00E+00,4.00E+00,Hanaouay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,0.00E+00,2.20E+01,1.50E+01,2.50E+01,4.00E+00,2.60E+01,4.00E+00,Zakroun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,3.00E+00,1.00E+01,1.00E+01,2.00E+01,4.00E+00,5.00E+01,4.00E+00,Barja,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,3.50E+01,1.00E+01,1.00E+01,3.00E+00,3.50E+01,4.00E+00,Bkhichtay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,3.00E+01,2.00E+01,1.00E+00,3.00E+01,4.00E+00,Tannoura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.40E+00,2.40E+00,2.00E+01,2.50E+01,1.50E+01,1.50E+01,2.00E+01,3.60E+00,Machghara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.50E+01,1.20E+01,2.00E+01,2.00E+01,3.00E+01,1.00E+01,3.00E+00,Zahleh El-Maallaqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+01,3.00E+01,1.80E+01,3.00E+01,7.00E+00,3.00E+00,Mansoura ,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,1.70E+01,1.50E+01,2.20E+01,2.50E+01,1.50E+01,3.00E+00,Bnehran,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.00E+01,1.80E+01,2.50E+01,2.20E+01,2.00E+01,3.00E+00,Kfar Bibnine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.50E+01,3.00E+01,2.00E+01,1.00E+01,2.00E+01,1.50E+01,3.00E+00,Hebbariyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.20E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+01,3.00E+00,Aaytat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,2.00E+01,2.00E+01,1.50E+01,2.00E+01,2.00E+01,3.00E+00,Sibline,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.20E+01,1.00E+01,5.00E+01,2.00E+01,5.00E+00,3.00E+00,Botmeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.60E+01,2.00E+01,3.00E+01,1.50E+01,5.00E+00,3.00E+00,Mtolleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+00,2.00E+01,7.00E+00,1.00E+01,1.50E+01,2.50E+01,3.00E+00,Batroun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.70E+01,3.00E+01,2.00E+01,1.50E+01,1.00E+01,3.00E+00,Bourj El Arab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.20E+01,2.50E+01,2.50E+01,1.50E+01,1.50E+01,3.00E+00,Hammana,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.00E+01,1.50E+01,2.70E+01,1.50E+01,2.00E+01,3.00E+00,Maydoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,7.00E+00,3.00E+01,2.00E+01,1.50E+01,2.00E+01,3.00E+00,Baghdadi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+01,1.00E+00,5.00E+00,1.00E+01,1.50E+01,1.20E+01,2.50E+01,3.00E+00,Temnine El-Faouqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,9.70E+01,2.00E+01,3.00E+00,1.00E+01,3.00E+00,3.00E+00,Aanout,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,5.00E+01,2.00E+01,1.00E+01,1.00E+01,5.00E+00,3.00E+00,Jernaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,4.00E+01,2.00E+01,1.50E+01,1.00E+01,7.00E+00,3.00E+00,Mechref,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.70E+01,2.00E+01,2.00E+01,1.00E+01,1.50E+01,3.00E+00,Hadchit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,2.50E+01,2.50E+01,2.00E+01,1.00E+01,1.50E+01,3.00E+00,Ras El-Href,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.50E+01,3.00E+01,2.00E+01,1.00E+01,1.00E+01,3.00E+00,Kfar Baal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,2.00E+01,1.70E+01,3.00E+01,1.00E+01,2.00E+01,3.00E+00,Qalaouiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.00E+01,1.50E+01,2.70E+01,1.00E+01,1.50E+01,3.00E+00,Ouadi Qannoubine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.70E+01,3.00E+01,2.00E+01,1.00E+01,1.50E+01,3.00E+00,Bakka,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.60E+01,3.50E+01,3.00E+01,1.00E+01,5.00E+00,3.00E+00,Aain Ed-Delb,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.50E+01,1.50E+01,3.00E+01,1.00E+01,2.50E+01,3.00E+00, Bireh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.20E+01,1.50E+01,3.00E+01,1.00E+01,2.00E+01,3.00E+00,Qaaqaiyet Es-Snaoubar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,1.20E+01,2.00E+01,2.00E+01,1.00E+01,3.00E+01,3.00E+00,Machha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,1.20E+01,1.50E+01,3.90E+01,1.00E+01,2.00E+01,3.00E+00,Makseh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,0.00E+00,1.20E+01,1.40E+01,2.10E+01,1.00E+01,3.20E+01,3.00E+00,Haret Hreik,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+01,8.00E+00,1.00E+01,2.00E+01,1.00E+01,1.00E+01,1.70E+01,3.00E+00,Moqaylbeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.00E+01,1.50E+01,3.00E+01,1.00E+01,3.00E+01,3.00E+00,Kfar Melki Saida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+01,2.00E+01,5.00E+01,1.00E+01,5.00E+00,3.00E+00,Maqneh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,7.00E+00,2.00E+01,2.50E+01,1.00E+01,3.00E+01,3.00E+00,Bahbouch,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,8.00E+00,1.00E+01,2.50E+01,9.00E+00,4.00E+01,3.00E+00,Massaaoudiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,1.40E+01,3.00E+01,8.00E+00,2.00E+01,3.00E+00,Merkebta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,1.50E+01,1.50E+01,1.70E+01,8.00E+00,4.00E+01,3.00E+00,Salima Baabda,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,3.00E+01,1.90E+01,1.80E+01,7.00E+00,2.20E+01,3.00E+00,Khalwat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.00E+01,1.50E+01,2.50E+01,7.00E+00,3.50E+01,3.00E+00,Ouada,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,6.00E+01,1.70E+01,1.00E+01,6.00E+00,1.00E+00,3.00E+00,Zaarouriyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,7.90E+01,5.00E+00,5.00E+00,5.00E+00,3.00E+00,3.00E+00,Hsarat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+01,3.00E+01,4.00E+01,1.10E+01,5.00E+00,1.00E+01,3.00E+00,Qnat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,2.70E+01,3.00E+01,2.00E+01,5.00E+00,1.00E+01,3.00E+00,Bebnine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,1.50E+01,3.50E+01,5.00E+00,2.00E+01,3.00E+00,Fardis Hasbaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.20E+01,3.00E+01,5.00E+00,2.00E+01,3.00E+00,Cheikhlar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.50E+01,4.20E+01,5.00E+00,5.00E+00,3.00E+00,Kafr Jarrah,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+00,1.50E+01,1.50E+01,1.70E+01,5.00E+00,3.00E+01,3.00E+00,Qaa Baalbek,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,1.20E+01,1.50E+01,3.00E+01,5.00E+00,3.00E+01,3.00E+00,Mazareaa Jabal Akroum,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.20E+01,2.00E+01,2.00E+01,5.00E+00,3.00E+01,3.00E+00,Haouch Hala,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.20E+01,1.00E+01,1.00E+01,5.00E+00,6.00E+01,3.00E+00,Aain Aanoub,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,1.00E+01,1.50E+01,2.50E+01,5.00E+00,4.00E+01,3.00E+00,Chehabiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,3.00E+00,1.00E+01,2.00E+01,3.00E+01,5.00E+00,3.00E+01,3.00E+00,Aaiyat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.00E+01,1.50E+01,2.50E+01,5.00E+00,4.00E+01,3.00E+00,Jibchit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,1.00E+01,2.00E+01,3.00E+01,5.00E+00,3.00E+01,3.00E+00,Aintourine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+7.00E+00,5.00E-01,1.00E+01,2.00E+01,2.50E+01,5.00E+00,3.00E+01,3.00E+00,Kfar Hatta Saida,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+01,3.00E+01,2.00E+01,5.00E+00,3.00E+01,3.00E+00,Kafraya El-Koura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,5.00E+00,8.00E+00,1.70E+01,5.00E+00,6.00E+01,3.00E+00,Kouakh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,3.00E+01,3.00E+00,2.00E+01,4.00E+00,3.00E+01,3.00E+00,Bane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,6.00E+00,9.00E+00,1.50E+01,4.00E+00,5.30E+01,3.00E+00,Brital,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,5.00E+01,3.00E+01,1.00E+01,3.00E+00,3.00E+00,3.00E+00,Bzoummar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,4.00E+01,2.50E+01,3.00E+00,8.00E+00,3.00E+00,Boussit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,0.00E+00,2.00E+01,5.00E+00,3.00E+01,2.00E+00,2.00E+01,3.00E+00,Mayrouba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,1.00E+01,1.50E+01,2.50E+01,2.00E+00,3.50E+01,3.00E+00,Kouachra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.70E+01,2.50E+01,2.50E+01,0.00E+00,0.00E+00,3.00E+00,Chnanaair,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E-01,5.00E-01,5.50E+01,1.00E+01,1.20E+01,1.00E+01,1.00E+01,2.50E+00,Bkassine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.50E+00,0.00E+00,1.25E+01,3.50E+01,3.50E+01,5.00E+00,7.50E+00,2.50E+00,Lebaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+9.30E+00,9.40E+00,1.78E+01,2.05E+01,2.34E+01,5.60E+00,2.10E+01,2.40E+00,Nabatiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,1.00E+01,2.00E+01,2.00E+01,3.50E+01,1.00E+01,2.00E+00,Sariita,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.80E+01,1.50E+01,1.00E+01,3.00E+01,5.00E+00,2.00E+00,Rechdibbine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.80E+01,2.00E+01,1.00E+01,3.00E+01,1.00E+01,2.00E+00,Haql el Aazimeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,0.00E+00,8.00E+00,1.00E+01,1.50E+01,2.50E+01,2.00E+01,2.00E+00,Aain Jarfa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,3.00E+01,2.00E+01,1.80E+01,2.00E+01,5.00E+00,2.00E+00,Aain Et-Tineh-Miniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,2.30E+01,1.50E+01,2.00E+01,1.00E+01,2.00E+00,Bijdarfil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.80E+01,2.00E+01,2.00E+01,2.00E+01,9.00E+00,2.00E+00,Bechouat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.80E+01,3.00E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+00,Taaid,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,4.00E+00,2.10E+01,3.00E+01,1.50E+01,2.00E+01,1.00E+01,2.00E+00,Bouar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.50E+01,3.00E+01,2.00E+01,5.00E+00,3.00E+00,2.00E+01,5.00E+00,2.00E+00,Taibet Baalbek,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,2.00E+01,2.00E+01,3.00E+01,2.00E+01,5.00E+00,2.00E+00,Aabbesiyyi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,0.00E+00,2.00E+01,3.00E+01,1.80E+01,2.00E+01,6.00E+00,2.00E+00,Harf Es-Sayad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.00E+01,2.20E+01,2.00E+01,2.00E+01,1.50E+01,2.00E+00,Lehfed,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.50E+01,2.50E+01,2.00E+01,8.00E+00,2.00E+00,Nahleh Baalbek,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,8.00E+00,1.00E+01,2.50E+01,2.00E+01,2.50E+01,2.00E+00,Ram,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,2.20E+01,1.20E+01,1.60E+01,1.80E+01,2.00E+01,2.00E+00,Bazaaoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.50E+01,2.00E+01,2.00E+01,2.00E+01,1.80E+01,2.00E+01,2.00E+00,Beslouqit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,1.00E+01,2.00E+01,4.00E+01,1.80E+01,7.00E+00,2.00E+00,Bent Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,2.00E+01,1.30E+01,3.80E+01,1.50E+01,1.00E+01,2.00E+00,Kfar Roummane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,4.00E+01,1.80E+01,1.00E+01,1.00E+01,1.50E+01,4.00E+01,2.00E+00,Haouch Er-Rafqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+01,1.50E+01,1.30E+01,2.00E+01,1.50E+01,1.50E+01,2.00E+00,Mazraat Ez-Zalloutiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.50E+01,1.30E+01,2.00E+01,1.50E+01,3.00E+01,2.00E+00,Alaq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,1.80E+01,3.00E+01,1.50E+01,2.00E+01,2.00E+00,Fatqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,4.00E+00,1.30E+01,2.50E+01,2.00E+01,1.50E+01,2.00E+01,2.00E+00,Hayshe,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,1.30E+01,1.00E+01,2.00E+01,1.50E+01,4.00E+01,2.00E+00,Kfar Jreif,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,1.00E+00,1.00E+01,3.00E+01,2.00E+01,1.50E+01,1.50E+01,2.00E+00,Aaqabet Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,5.00E+00,1.50E+01,2.50E+01,1.30E+01,3.00E+01,2.00E+00,Ouadi Banhlay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,3.00E+01,3.00E+01,2.00E+01,1.20E+01,5.00E+00,2.00E+00,Mazraat Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,1.70E+01,1.80E+01,2.00E+01,1.20E+01,2.80E+01,2.00E+00,Mazraat Et-Teffah,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.10E+01,2.00E+01,2.00E+01,1.20E+01,2.50E+01,2.00E+00,Douair Aadouiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.80E+01,2.00E+01,2.00E+01,1.00E+01,5.00E+00,2.00E+00,Raachine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+00,3.30E+01,1.00E+01,2.40E+01,1.00E+01,1.00E+00,2.00E+00,Aammiq Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,2.80E+01,2.50E+01,1.00E+01,1.00E+01,1.50E+01,2.00E+00,Baassir,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,5.00E+00,2.80E+01,2.50E+01,1.00E+01,1.00E+01,1.00E+01,2.00E+00,Arnoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,2.80E+01,2.00E+01,3.00E+01,1.00E+01,1.00E+01,2.00E+00,Chimlane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.70E+01,1.00E+01,3.00E+01,1.00E+01,2.00E+01,2.00E+00,Chamate,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,3.80E+01,2.00E+01,2.00E+01,3.00E+01,1.00E+01,8.00E+00,2.00E+00,Harf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,1.20E+01,2.00E+01,3.10E+01,2.30E+01,1.00E+01,1.00E+01,2.00E+00,Deir Aames,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,1.00E+01,2.00E+01,2.50E+01,2.50E+01,1.00E+01,1.00E+01,2.00E+00,Jbaa En-Nabatiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,2.00E+00,Aain Ouzain,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,5.00E+00,4.80E+01,1.00E+01,1.00E+01,2.00E+00,Blaouza,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,2.00E+01,3.00E+01,2.50E+01,1.00E+01,1.00E+01,2.00E+00,Aain Traz,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+01,1.80E+01,2.00E+01,2.00E+01,1.00E+01,2.00E+01,2.00E+00,tarane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.80E+01,1.50E+01,2.50E+01,1.00E+01,2.50E+01,2.00E+00,Jdeidet Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.80E+01,1.80E+01,3.00E+01,1.00E+01,2.00E+01,2.00E+00,Halate,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,1.60E+01,2.50E+01,2.50E+01,1.00E+01,2.00E+01,2.00E+00,Jebrayel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,1.50E+01,3.00E+01,3.00E+01,1.00E+01,1.00E+01,2.00E+00,Zouarib,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.50E+01,3.00E+01,3.50E+01,1.00E+01,7.00E+00,2.00E+00,Bednayel El-Koura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.50E+01,3.30E+01,2.50E+01,1.00E+01,1.50E+01,2.00E+00,Niha El-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,5.00E+00,1.40E+01,2.00E+01,2.50E+01,1.00E+01,2.50E+01,2.00E+00,Yohmor West Bekaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,1.00E+01,2.00E+01,2.80E+01,1.00E+01,2.00E+01,2.00E+00,Koueikhat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,3.00E+00,1.00E+01,1.50E+01,2.50E+01,1.00E+01,3.40E+01,2.00E+00,Fraudis Ech-Chouf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+00,1.00E+01,1.80E+01,2.50E+01,1.00E+01,2.00E+01,2.00E+00,Zabboud,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,1.00E+00,1.00E+01,2.00E+01,3.00E+01,1.00E+01,2.00E+01,2.00E+00,Kfartoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,0.00E+00,1.00E+01,2.00E+01,2.50E+01,1.00E+01,2.50E+01,2.00E+00,Kfoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.50E+01,8.00E+00,2.00E+01,2.00E+01,1.00E+01,3.00E+01,2.00E+00,Bqaa Sefrine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.50E+01,8.00E+00,1.00E+01,2.00E+01,1.00E+01,5.00E+01,2.00E+00,Afqa Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,1.00E+01,8.00E+00,1.00E+01,1.50E+01,1.00E+01,3.50E+01,2.00E+00,Mhammaret,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,8.00E+00,8.00E+00,2.50E+01,2.00E+01,1.00E+01,3.00E+01,2.00E+00,Aamaret El-Baykat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,8.00E+00,1.00E+01,2.00E+01,1.00E+01,4.00E+01,2.00E+00,Dibbabiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,3.00E+00,8.00E+00,2.50E+01,2.50E+01,1.00E+01,2.00E+01,2.00E+00,Qennarit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,8.00E+00,1.50E+01,2.50E+01,1.00E+01,3.00E+01,2.00E+00,Derdaghaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,1.00E+00,8.00E+00,1.50E+01,2.00E+01,1.00E+01,2.50E+01,2.00E+00,Bany haiyane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,8.00E+00,1.50E+01,2.50E+01,1.00E+01,3.00E+01,2.00E+00,Ighmid,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,8.00E+00,2.00E+01,3.00E+01,1.00E+01,2.80E+01,2.00E+00,Chouaya Hasbaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,6.00E+00,2.00E+01,5.00E+01,1.00E+01,1.00E+01,2.00E+00,Deir Siriane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,2.00E+00,5.00E+00,2.50E+01,2.50E+01,1.00E+01,3.00E+01,2.00E+00,Haouch El-Harime,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,5.00E+00,1.00E+01,3.00E+01,1.00E+01,4.00E+01,2.00E+00,Khat el Petrol,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,3.00E+00,1.00E+01,2.00E+01,1.00E+01,4.50E+01,2.00E+00,Kamed El-Laouz,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,3.00E+00,5.00E+00,3.00E+01,1.00E+01,4.00E+01,2.00E+00,Kfaryachit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+00,1.00E+01,2.00E+01,1.00E+01,5.00E+01,2.00E+00,Aain Aata,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.70E+01,2.00E+01,2.20E+01,9.00E+00,2.00E+01,2.00E+00,Aain Zebdeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+00,1.60E+01,1.50E+01,2.50E+01,9.00E+00,1.80E+01,2.00E+00,Mhaiydseh Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.80E+01,1.50E+01,2.50E+01,8.00E+00,3.20E+01,2.00E+00,Mazraat Yachouaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+00,1.50E+01,3.00E+01,2.00E+01,8.00E+00,1.00E+01,2.00E+00,Aarjis,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+00,1.00E+01,2.00E+01,2.50E+01,8.00E+00,2.00E+01,2.00E+00,Tanbourit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.00E+01,2.00E+01,2.50E+01,7.00E+00,3.10E+01,2.00E+00,Touline,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,3.00E+00,1.80E+01,2.50E+01,2.50E+01,6.00E+00,2.40E+01,2.00E+00,Khinchara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,4.00E+00,3.50E+01,3.00E+01,6.00E+00,2.00E+01,2.00E+00,Rawda Bekaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.00E+01,1.50E+01,3.00E+01,5.00E+00,1.80E+01,2.00E+00,Ouadi Baanqoudaine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.80E+01,2.00E+01,2.50E+01,5.00E+00,1.50E+01,2.00E+00,Baaouerta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,1.30E+01,4.00E+01,5.00E+00,1.50E+01,2.00E+00,Zaitoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,3.00E+00,1.70E+01,3.00E+01,2.50E+01,5.00E+00,2.00E+01,2.00E+00,Qornet Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,1.50E+01,1.60E+01,2.50E+01,5.00E+00,3.50E+01,2.00E+00,Nabi Ayla,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,1.00E+01,4.00E+01,2.00E+01,5.00E+00,2.00E+01,2.00E+00,Taalbaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.50E+01,8.00E+00,2.00E+01,2.00E+01,5.00E+00,3.00E+01,2.00E+00,Saksakiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+6.00E+01,0.00E+00,8.00E+00,5.00E+00,1.00E+01,5.00E+00,1.00E+01,2.00E+00,Btalloun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,8.00E+00,2.00E+01,3.00E+01,5.00E+00,3.00E+01,2.00E+00,Majdel Baana,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,8.00E+00,1.20E+01,3.00E+01,5.00E+00,4.00E+01,2.00E+00,Beit Younes,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,8.00E+00,1.50E+01,3.00E+01,5.00E+00,4.00E+01,2.00E+00,Srayri,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.50E+01,5.00E+00,5.00E+00,8.00E+00,2.50E+01,5.00E+00,2.00E+01,2.00E+00,Borj En-Naqoura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,5.00E+00,1.00E+01,1.80E+01,5.00E+00,5.00E+01,2.00E+00,Insariyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,5.00E+00,2.30E+01,4.00E+01,5.00E+00,2.00E+01,2.00E+00,Temnine Et-Tahta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+8.00E+00,0.00E+00,5.00E+00,2.00E+01,3.00E+01,5.00E+00,3.00E+01,2.00E+00,Mazraat Mechref,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,5.00E+00,1.30E+01,2.80E+01,5.00E+00,4.50E+01,2.00E+00,Sfinet Ed-Draib,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,3.00E+00,2.00E+01,2.50E+01,5.00E+00,4.00E+01,2.00E+00,Selaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E+00,1.30E+01,2.00E+01,5.00E+01,4.00E+00,1.00E+01,2.00E+00,Bnaafoul,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+7.00E+00,1.00E+00,1.20E+01,1.50E+01,3.50E+01,4.00E+00,2.50E+01,2.00E+00,Bekhaaz,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.50E+01,3.00E+01,2.50E+01,3.00E+00,1.50E+01,2.00E+00,Fiaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,1.00E+01,4.50E+01,3.00E+00,2.00E+01,2.00E+00,Haouch Tall Safiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.20E+01,0.00E+00,1.00E+01,2.00E+01,3.00E+01,3.00E+00,2.30E+01,2.00E+00,Kaoukaba Bou Arab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.70E+01,5.00E+00,1.00E+01,3.00E+01,3.00E+00,4.00E+01,2.00E+00,Biret Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,5.00E+00,2.00E+01,2.50E+01,3.00E+00,3.50E+01,2.00E+00,Karm El-Mohr,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+00,3.00E+00,4.80E+00,2.40E+00,4.00E+00,2.00E+00,Zgharta-Ehden,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,7.00E+00,1.80E+01,2.00E+01,2.00E+00,5.00E+01,2.00E+00,Talia,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.10E+01,5.00E+00,5.00E+00,2.00E+01,2.00E+01,2.00E+00,3.00E+01,2.00E+00,Qahmez,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.40E+01,4.00E+01,4.00E+01,1.00E+00,2.00E+00,2.00E+00,Mazraat Beit Ghattas,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,6.00E+00,1.00E+01,3.00E+01,1.00E+00,5.00E+01,2.00E+00,Bouarej,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E-01,4.00E+01,2.00E+01,1.30E+01,2.00E+01,2.50E+01,2.00E+01,1.50E+00,Kfar Kila,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.00E+01,2.00E+01,3.00E+01,3.00E+01,7.00E+00,1.00E+00,Borj El-Yahoudiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,5.50E+01,1.00E+01,5.00E+00,2.50E+01,2.00E+00,1.00E+00,Bqerqacha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,2.50E+01,3.00E+01,1.40E+01,2.40E+01,5.00E+00,1.00E+00,Dhour el hawa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,3.00E+00,1.00E+01,1.50E+01,2.00E+01,2.40E+01,2.00E+01,1.00E+00,Charbine El-Hermel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,4.00E+01,2.50E+01,1.00E+01,2.20E+01,1.00E+00,1.00E+00,Qraiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,2.40E+01,1.50E+01,2.00E+01,2.00E+01,1.50E+01,1.00E+00,Deir Aammar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,2.00E+00,1.50E+01,2.00E+01,2.00E+01,2.00E+01,2.00E+01,1.00E+00,Qattineh-Miniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,1.00E+01,1.00E+01,2.00E+01,2.50E+01,2.00E+01,2.00E+01,1.00E+00,Naoura El-Faouqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.00E+01,1.00E+01,2.00E+01,2.00E+01,3.40E+01,1.00E+00,Hayzouq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+01,9.00E+00,1.50E+01,1.00E+01,2.00E+01,4.00E+01,1.00E+00,Sfireh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,8.00E+00,1.00E+01,4.00E+01,2.00E+01,2.00E+01,1.00E+00,Choualiq Jezzine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,7.00E+00,2.00E+01,1.00E+01,2.00E+01,1.90E+01,2.80E+01,1.00E+00,Eghbe,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,3.00E+00,1.00E+01,8.00E+00,3.00E+01,1.70E+01,3.20E+01,1.00E+00,Bzal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.00E+00,2.90E+01,3.00E+01,1.50E+01,1.50E+01,5.00E+00,1.00E+00,Khirbet Char,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,5.00E+00,2.50E+01,1.20E+01,2.20E+01,1.50E+01,2.20E+01,1.00E+00,Khirbet Rouha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,2.40E+01,1.50E+01,2.00E+01,1.50E+01,2.00E+01,1.00E+00,Qaaqaaiyet Ej-Jisr,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,1.30E+01,2.20E+01,2.50E+01,1.50E+01,2.20E+01,1.00E+00,Rihaniyet Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,1.00E+01,1.50E+01,2.00E+01,1.50E+01,1.50E+01,1.00E+00,Fisan,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.00E+01,2.00E+01,2.40E+01,1.50E+01,2.50E+01,1.00E+00,Haret Fouar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,5.00E+00,5.00E+01,2.20E+01,1.50E+01,6.00E+00,1.00E+00,Majdel Selm,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,1.40E+01,3.00E+01,2.50E+01,1.40E+01,1.50E+01,1.00E+00,Kfarfila,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,6.00E+01,1.00E+01,1.50E+01,2.50E+01,1.30E+01,3.50E+01,1.00E+00,jouar Hasheesh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+7.00E+00,2.00E+00,6.00E+00,2.40E+01,2.30E+01,1.20E+01,2.70E+01,1.00E+00,Fekehe,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,3.90E+01,2.00E+01,1.00E+01,1.00E+01,1.50E+01,1.00E+00,Zilaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+9.00E+00,5.00E+00,3.50E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,1.00E+00,Byaqout,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,0.00E+00,2.90E+01,1.50E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+00,Mahrouna,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,2.50E+01,2.40E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+00,Magher wbala,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,2.00E+01,1.90E+01,1.00E+01,2.00E+01,1.00E+01,2.00E+01,1.00E+00,Jdita,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.50E+01,1.40E+01,1.50E+01,1.00E+01,3.50E+01,1.00E+00,Aadchit El-Qoussair,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,4.00E+00,1.50E+01,2.00E+01,1.70E+01,1.00E+01,1.70E+01,1.00E+00,Rachaya El Wadi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,1.50E+01,1.40E+01,3.00E+01,1.00E+01,2.50E+01,1.00E+00,Mejdlaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,1.40E+01,2.00E+01,2.50E+01,1.00E+01,2.50E+01,1.00E+00,Ras Masqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+01,1.00E+01,2.00E+01,1.00E+01,1.00E+01,3.90E+01,1.00E+00,Debaal Menie,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E+00,1.00E+01,2.00E+01,3.00E+01,1.00E+01,2.80E+01,1.00E+00,Bkeftine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,1.00E+01,1.40E+01,4.00E+01,1.00E+01,2.00E+01,1.00E+00,Saadine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,1.00E+01,1.00E+01,2.30E+01,1.00E+01,4.50E+01,1.00E+00,Arzoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,2.00E+00,1.00E+01,1.00E+01,3.00E+01,1.00E+01,3.90E+01,1.00E+00,Kfar Denis,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,9.00E+00,9.00E+00,5.00E+01,1.00E+01,2.00E+01,1.00E+00,Mounjez,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,2.00E+00,1.50E+01,2.00E+01,1.00E+01,5.00E+01,1.00E+00,Aain Qinia,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.00E+01,2.00E+01,2.50E+01,9.00E+00,3.00E+01,1.00E+00,Jermanya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,8.00E+00,1.00E+01,2.00E+01,2.00E+01,9.00E+00,2.00E+01,1.00E+00,Debl,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,5.00E+00,2.00E+01,3.50E+01,9.00E+00,2.00E+01,1.00E+00,Kfarsghab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E-02,9.00E+00,2.00E+01,3.00E+01,8.00E+00,3.00E+01,1.00E+00,Maarakeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,7.00E+00,1.20E+01,5.00E+01,8.00E+00,2.00E+01,1.00E+00,Dhayra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,2.00E+00,1.00E+01,1.00E+01,8.00E+00,6.80E+01,1.00E+00,Hmaireh Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.40E+01,1.00E+01,3.00E+00,1.50E+01,2.50E+01,7.00E+00,3.50E+01,1.00E+00,Nimrine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+00,1.00E+00,2.00E+00,3.00E+01,6.00E+00,5.00E+01,1.00E+00,Aarab Tabbaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+01,2.00E+01,2.00E+01,5.00E+00,4.00E+00,1.00E+00,Rimhala,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,0.00E+00,3.00E+01,2.10E+01,2.00E+01,5.00E+00,2.00E+01,1.00E+00,Bsaba Baabda,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.30E+01,4.50E+01,2.00E+01,5.00E+00,5.00E+00,1.00E+00,Mazraat Es-Dahr,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.10E+01,2.50E+01,1.70E+01,5.00E+00,3.00E+01,1.00E+00,Mayasseh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.40E+01,2.50E+01,5.00E+00,2.00E+01,1.00E+00,Mehmarch,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,1.30E+01,2.00E+01,2.00E+01,5.00E+00,4.00E+01,1.00E+00,Haouche Barada,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+9.00E+00,1.00E+00,1.00E+01,2.50E+01,2.00E+01,5.00E+00,3.00E+01,1.00E+00,Aarsal,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,1.00E+01,3.30E+01,3.50E+01,5.00E+00,1.50E+01,1.00E+00,Machta Hassan,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,9.00E+00,2.00E+01,2.00E+01,5.00E+00,4.00E+01,1.00E+00,Aarqa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,7.00E+00,7.00E+00,3.00E+01,4.00E+01,5.00E+00,1.50E+01,1.00E+00,Hasbaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,2.00E+01,5.00E+00,1.50E+01,3.00E+01,5.00E+00,4.00E+01,1.00E+00,Minie,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.50E+01,2.00E+00,4.00E+00,1.00E+01,2.50E+01,5.00E+00,3.00E+01,1.00E+00,Merouaniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,4.00E+00,1.50E+01,3.00E+01,5.00E+00,4.00E+01,1.00E+00,Boustane Heresh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,4.00E+00,2.00E+01,4.00E+01,5.00E+00,3.00E+01,1.00E+00,Tleil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,3.00E+00,2.00E+00,1.50E+01,3.50E+01,5.00E+00,4.00E+01,1.00E+00,Tall Znoub,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.50E+01,1.00E+00,2.00E+00,1.00E+01,1.50E+01,5.00E+00,4.20E+01,1.00E+00,Qaytouleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,4.00E+01,1.50E+01,2.00E+01,4.00E+00,2.00E+01,1.00E+00,Bezbina,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.50E+01,2.30E+01,2.20E+01,4.00E+00,2.50E+01,1.00E+00,Aaytit,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+6.00E+01,5.00E+01,5.00E+00,5.00E+00,5.00E+00,4.00E+00,2.00E+01,1.00E+00,Mazraat Bani Sakher,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,5.00E+00,5.00E+00,1.50E+01,3.20E+01,4.00E+00,3.80E+01,1.00E+00,Mqaiteaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,5.00E+00,5.00E+00,3.50E+01,4.00E+00,4.50E+01,1.00E+00,Rachaf,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,5.00E+00,4.00E+01,3.50E+01,4.00E+00,1.50E+01,1.00E+00,Mar Boutros Karm Et-Tine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.30E+01,4.00E+00,2.00E+00,3.00E+00,2.50E+01,4.00E+00,5.20E+01,1.00E+00,Majdel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,2.00E+00,2.00E+01,2.50E+01,2.50E+01,3.00E+00,2.50E+01,1.00E+00,Jiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,1.40E+01,2.00E+01,4.00E+01,3.00E+00,2.00E+01,1.00E+00,Aadoussiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,2.00E+00,5.00E+00,1.60E+01,2.50E+01,3.00E+00,5.00E+01,1.00E+00,Ablah,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,3.00E+00,1.00E+01,1.50E+01,3.00E+00,2.00E+01,1.00E+00,Kfar Chouba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+01,5.00E+01,2.00E+00,4.00E+00,1.00E+01,3.00E+00,3.00E+01,1.00E+00,Chehabiyeh Faour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,2.00E+00,1.90E+01,2.50E+01,3.00E+00,4.00E+01,1.00E+00,Deir Nbouh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+00,3.00E+01,5.00E+01,1.00E+01,2.00E+00,5.00E+00,1.00E+00,Zouq El-Hbalsa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.40E+01,3.00E+01,3.50E+01,2.00E+00,7.00E+00,1.00E+00,Qlaiaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+7.00E+00,1.00E+01,1.70E+01,1.80E+01,2.50E+01,2.00E+00,3.00E+01,1.00E+00,Baisour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,1.00E+01,2.00E+01,3.60E+01,2.00E+00,3.00E+01,1.00E+00,Sfaynet El-Qaitaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.50E+01,3.00E+01,5.00E+00,1.70E+01,1.00E+01,2.00E+00,3.00E+01,1.00E+00,Deir Dalloum,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,5.00E+00,1.00E+01,2.70E+01,2.00E+00,1.00E+01,1.00E+00,Michmich Jbeil,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,5.00E+00,1.50E+01,3.50E+01,2.00E+00,4.00E+01,1.00E+00,Rachaiya El-Foukhar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+01,1.00E+00,2.00E+00,5.00E+00,2.50E+01,2.00E+00,2.50E+01,1.00E+00,Deir Ntar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+00,2.00E+01,7.00E+01,2.00E+00,4.00E+00,1.00E+00,Berbara Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.50E+01,5.00E+01,3.00E+01,1.00E+00,2.00E+00,1.00E+00,Aain Tinta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+01,8.00E+00,1.00E+01,2.00E+01,1.00E+00,4.50E+01,1.00E+00,Qraiyat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+01,1.00E+00,3.00E+00,5.00E+00,1.00E+01,1.00E+00,3.00E+01,1.00E+00,Qild Es Sabea,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,9.50E+00,2.00E+01,2.00E+01,2.00E+01,2.00E+01,5.00E-01,Choueifat El-Aamrousiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,4.50E+00,2.00E+01,4.00E+01,1.50E+01,1.00E+01,5.00E-01,Hadath-Sbeineh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+9.90E+00,1.00E+00,3.50E+01,2.00E+01,1.50E+01,1.00E+01,1.00E+01,1.00E-01,Ouadi El-Laymoun,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,4.00E+00,4.90E+00,4.00E+01,1.00E+00,4.00E+01,1.00E-01,Kfar Qouq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+02,0.00E+00,5.00E+02,2.00E+03,6.00E+03,5.00E+02,4.00E+03,0.00E+00,Miriata,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,2.00E+01,2.00E+00,1.50E+01,1.50E+01,2.50E+01,4.00E+01,0.00E+00,Qoubber Chamra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,3.00E+00,0.00E+00,2.50E+01,0.00E+00,2.50E+01,0.00E+00,0.00E+00,Majdel El-Aqoura,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,5.00E+01,1.50E+01,5.00E+00,2.00E+01,5.00E+00,0.00E+00,Deir Chamra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,5.00E+00,2.00E+01,1.00E+01,1.00E+01,2.00E+01,2.00E+01,0.00E+00,Aain Ed-Delbe,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,2.00E+01,2.00E+01,0.00E+00,Roum,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,1.00E+01,1.50E+01,2.50E+01,2.00E+01,2.50E+01,0.00E+00,Qaser,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,0.00E+00,1.00E+01,2.00E+01,1.00E+01,2.00E+01,2.00E+01,0.00E+00,Qaouzah,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.00E+01,2.00E+01,2.00E+01,2.00E+01,3.00E+01,0.00E+00,Sindianet Zeidane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,3.00E+01,5.00E+00,4.00E+01,2.50E+01,2.00E+01,1.00E+01,0.00E+00,El Ain,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,5.00E+00,2.00E+01,2.00E+01,2.00E+01,3.00E+01,0.00E+00,Beit El-Haouch,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+01,2.00E+01,3.00E+01,1.80E+01,2.00E+01,0.00E+00,Qantara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,2.50E+01,1.50E+01,1.50E+01,1.50E+01,2.50E+01,0.00E+00,Bqerzla,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.40E+01,1.30E+01,1.00E+01,1.80E+01,2.00E+01,1.50E+01,2.30E+01,0.00E+00,Btermaz,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,1.00E+01,2.00E+01,2.00E+01,1.50E+01,3.00E+01,0.00E+00,Markaba,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,1.00E+00,5.00E+00,2.00E+01,4.00E+01,1.50E+01,1.00E+01,0.00E+00,Mouanse,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+01,1.00E+01,1.00E+01,8.00E+00,2.00E+01,1.20E+01,2.00E+01,0.00E+00,Ghazayleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+00,4.00E+01,1.00E+01,2.00E+01,1.00E+01,1.50E+01,0.00E+00,Khirbet Jord,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.80E+01,4.00E+01,2.00E+01,5.00E+00,5.00E+00,1.00E+01,1.20E+01,0.00E+00,Ein el Dahab,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,2.00E+01,2.00E+01,1.00E+01,1.00E+01,1.00E+01,3.50E+01,0.00E+00,Fnaydek,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,2.00E+01,2.50E+01,2.50E+01,1.00E+01,1.50E+01,0.00E+00,Halloussiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+01,3.00E+01,1.00E+01,1.00E+01,1.50E+01,1.00E+01,1.50E+01,0.00E+00,Bechtoudar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,1.00E+01,1.00E+01,1.00E+01,2.00E+01,1.00E+01,3.00E+01,0.00E+00,Qloud El-Baqieh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,1.00E+01,1.00E+01,1.50E+01,2.50E+01,1.00E+01,3.50E+01,0.00E+00,Ouadi El-Haour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+01,1.00E+01,2.00E+01,3.00E+01,1.00E+01,3.00E+01,0.00E+00,Khodr Baalbek,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+4.00E+00,3.00E+00,1.00E+01,1.50E+01,2.00E+01,1.00E+01,4.10E+01,0.00E+00,Fraides,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,1.00E+01,1.50E+01,3.00E+01,1.00E+01,3.00E+01,0.00E+00,Qraiyet Jlayse,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.00E+01,1.00E+01,4.00E+01,1.00E+01,3.00E+01,0.00E+00,Rabb Et-Tlatine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,9.00E+00,3.50E+01,3.00E+01,1.00E+01,1.50E+01,0.00E+00,Bchannine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+00,1.00E+01,7.00E+00,1.00E+01,2.00E+01,1.00E+01,5.00E+01,0.00E+00,Khreibet Ej-Jindi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.60E+01,1.50E+01,6.00E+00,8.00E+00,3.50E+01,1.00E+01,2.50E+01,0.00E+00,Halbata,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,5.00E+00,2.00E+01,2.50E+01,1.00E+01,3.00E+01,0.00E+00,Hayssa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,5.00E+00,2.00E+01,3.50E+01,1.00E+01,2.00E+01,0.00E+00,Cheikh Zennad,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,5.00E+00,1.00E+01,1.50E+01,1.00E+01,5.00E+01,0.00E+00,Khirbet Daoud Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+6.00E+00,1.00E+00,5.00E+00,1.20E+01,2.20E+01,1.00E+01,4.50E+01,0.00E+00,Aamayer,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,5.00E+00,2.00E+01,2.00E+01,1.00E+01,4.50E+01,0.00E+00,Bizhel,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,5.00E+00,3.00E+00,5.00E+00,3.00E+01,1.00E+01,5.00E+01,0.00E+00,Beit Haouik,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.50E+01,3.00E+01,2.00E+00,5.00E+00,1.00E+01,1.00E+01,3.80E+01,0.00E+00,Qarhaiya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,0.00E+00,2.00E+00,1.00E+01,8.00E+00,1.00E+01,5.00E+01,0.00E+00,Bmakine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+01,0.00E+00,1.00E+01,3.00E+01,1.00E+01,4.00E+01,0.00E+00,Kneisset Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,4.00E+00,1.20E+01,3.00E+01,2.00E+01,8.00E+00,1.00E+01,0.00E+00,Qraine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+01,2.00E+01,4.00E+01,8.00E+00,2.00E+01,0.00E+00,Dahr El-Qanbar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+01,1.00E+00,2.00E+00,2.00E+01,1.00E+01,8.00E+00,1.00E+01,0.00E+00,Moqraq,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.20E+01,2.00E+01,3.00E+01,6.00E+00,3.00E+01,0.00E+00,Deir El-Aachayer,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,3.50E+01,4.00E+01,1.00E+01,5.00E+00,1.00E+01,0.00E+00,Rahbeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,3.00E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,0.00E+00,Kfar Aamay,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.30E+01,2.50E+01,3.50E+01,1.20E+01,5.00E+00,1.80E+01,0.00E+00,Dibbine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,2.40E+01,3.00E+01,3.00E+01,5.00E+00,1.00E+01,0.00E+00,Karm Saddeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.50E+01,1.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,2.00E+01,0.00E+00,Zibdine En-Nabatiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.00E+01,3.00E+01,5.00E+00,2.00E+01,0.00E+00,Baaloul West Bekaa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,0.00E+00,2.00E+01,2.00E+01,2.00E+01,5.00E+00,3.00E+01,0.00E+00,Kfar Matta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,1.50E+01,1.00E+01,3.00E+01,5.00E+00,3.00E+01,0.00E+00,Qaaqour,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,2.00E+00,1.50E+01,1.00E+01,1.00E+01,5.00E+00,5.00E+01,0.00E+00,Chane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.50E+01,1.00E+00,1.50E+01,1.00E+01,2.50E+01,5.00E+00,2.00E+01,0.00E+00,Haytla,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.30E+01,3.00E+01,4.00E+01,5.00E+00,1.00E+01,0.00E+00,Marj Ez-Zouhour (Haouch El-Qinnaabeh),http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,7.00E+01,1.00E+01,4.00E+01,3.50E+01,5.00E+00,1.00E+01,0.00E+00,Gharzouz,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,1.00E+01,1.00E+01,3.50E+01,3.00E+01,5.00E+00,1.00E+01,0.00E+00,Cheikh Ayash,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,0.00E+00,1.00E+01,4.00E+01,3.00E+01,5.00E+00,5.00E+00,0.00E+00,Hajjeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+01,2.00E+01,5.00E+00,1.00E+01,2.00E+01,5.00E+00,3.00E+01,0.00E+00,Maasrati,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+3.00E+01,5.00E+00,5.00E+00,1.00E+01,3.00E+01,5.00E+00,2.00E+01,0.00E+00,Nasriyet Zahleh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,5.00E+00,2.50E+01,3.00E+01,5.00E+00,3.00E+01,0.00E+00,Amara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,2.00E+00,5.00E+00,1.00E+01,5.00E+01,5.00E+00,2.50E+01,0.00E+00,Qarha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+00,5.00E+00,2.50E+01,3.00E+01,5.00E+00,3.50E+01,0.00E+00,Kfar Hamam,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,0.00E+00,1.00E+01,1.50E+01,5.00E+01,4.00E+00,2.00E+01,0.00E+00,Aalman,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+01,5.00E+00,1.00E+00,5.00E+00,3.00E+01,4.00E+00,5.00E+01,0.00E+00,Karm Zebdine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,3.00E+01,1.50E+01,2.50E+01,3.00E+00,2.50E+01,0.00E+00,Taazaniyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,2.20E+01,2.50E+01,2.50E+01,3.00E+00,2.50E+01,0.00E+00,Bakkifac Rachaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,2.00E+01,3.00E+01,2.50E+01,3.00E+00,2.00E+01,0.00E+00,Mdoukha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,5.00E+00,1.00E+01,3.00E+01,3.00E+00,5.00E+01,0.00E+00,Malkiyah Village,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,2.00E+00,1.80E+01,5.00E+01,1.80E+01,2.00E+00,1.00E+01,0.00E+00,Aabaydat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+01,7.00E+00,3.00E+01,1.00E+00,5.00E+01,0.00E+00,Majdel Balhis,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+00,3.50E+01,4.00E+00,5.00E+00,2.50E+01,1.00E+00,6.00E+01,0.00E+00,Fard,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,4.00E+01,3.00E+01,2.30E+01,0.00E+00,5.00E+00,0.00E+00,Hedd,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,1.00E+01,2.50E+01,1.00E+01,4.80E+01,0.00E+00,1.50E+01,0.00E+00,Aaray,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,5.00E+00,2.00E+01,2.00E+01,2.00E+01,0.00E+00,4.00E+01,0.00E+00,Jmailiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+9.00E+00,0.00E+00,1.10E+01,1.50E+01,2.50E+01,0.00E+00,4.00E+01,0.00E+00,Deir Jannine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,1.00E+01,1.80E+01,3.00E+01,0.00E+00,4.00E+01,0.00E+00,Abou Qamha,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,1.00E+01,4.50E+01,3.50E+01,0.00E+00,1.00E+01,0.00E+00,Bohwara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+01,0.00E+00,5.00E+00,3.00E+01,3.00E+01,0.00E+00,1.50E+01,0.00E+00,Jenjlaya,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+1.00E+00,5.00E+00,4.00E+00,5.00E+00,4.00E+01,0.00E+00,5.00E+01,0.00E+00,Tall Hmayra,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+6.00E+01,3.00E+01,0.00E+00,0.00E+00,1.00E+01,0.00E+00,3.00E+01,0.00E+00,Ouadi Faara,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.50E+01,0.00E+00,2.50E+01,2.50E+01,0.00E+00,5.00E+01,0.00E+00,Srar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,1.00E+01,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Qleiaat Aakkar,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+01,5.00E+00,0.00E+00,0.00E+00,2.00E+01,0.00E+00,3.00E+01,0.00E+00,Zaghartaghrine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+5.00E+01,0.00E+00,0.00E+00,1.00E+01,1.50E+01,0.00E+00,2.50E+01,0.00E+00,Darine,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+2.00E+00,0.00E+00,0.00E+00,1.80E+01,3.00E+01,0.00E+00,5.00E+01,0.00E+00,ebra wChouane,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Aaychiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Bestiyat,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Ibl Es-Saqi,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Jbal El-Botm,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Kfarhata Zgharta,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Kfarzaina,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Talloussa,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
+0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,Zaoutar El-Gharbiyeh,http://linked.aub.edu.lb/CODEC/Lebanon/Dataset/Educational_Level-Lebanon-2023
