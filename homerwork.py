@@ -88,10 +88,14 @@ else:
 
     # Update the layout for heatmap
     fig_heatmap.update_layout(
+        title='Correlation Matrix Heatmap',
         xaxis_title='Variables',
         yaxis_title='Variables',
         xaxis=dict(tickangle=-45),
-        yaxis=dict(tickangle=0)
+        yaxis=dict(tickangle=0),
+        autosize=False,  # Disable autosize to use explicit dimensions
+        width=800,       # Width of the heatmap
+        height=800       # Height of the heatmap
     )
 
     # Display the heatmap
